@@ -36,13 +36,29 @@ Jinlong Peng, Changan Wang, Fangbin Wan, Yang Wu, Yabiao Wang, Ying Tai, Chengji
 [[paper](https://arxiv.org/pdf/2007.14557.pdf)]  [[code](github.com/pjl1995/CTracker)]    
 
 
-+ Simultaneous detection and tracking with motion modelling for multiple object tracking. (ECCV 2020)
++ Simultaneous detection and tracking with motion modelling for multiple object tracking. (ECCV 2020)  
 ShiJie Sun, Naveed Akhtar, XiangYu Song, HuanSheng Song, Ajmal Mian, Mubarak Shah.  
 [[paper](https://arxiv.org/pdf/2008.08826.pdf)]  
 
 ## CVPR 2020
++ Learning a Neural Solver for Multiple Object Tracking. (CVPR 2020)  
+Guillem Brasó, Laura Leal-Taixé.  
+[[paper](https://arxiv.org/pdf/1912.07515.pdf)]  [[code](https://bit.ly/motsolv)] 
+
++ A Unified Object Motion and Affinity Model for Online Multi-Object Tracking. (CVPR 2020)  
+Junbo Yin, Wenguan Wang, Qinghao Meng, Ruigang Yang, Jianbing Shen.  
+[[paper](https://arxiv.org/pdf/2003.11291.pdf)]  [[code](https://github.com/yinjunbo/UMA-MOT)]  
+
++ RetinaTrack: Online Single Stage Joint Detection and Tracking. (CVPR 2020)  
+Zhichao Lu, Vivek Rathod, Ronny Votel, Jonathan Huang.  
+[[paper](https://arxiv.org/pdf/2003.13870.pdf)] 
+
 
 ## arXiv 2020
+
++ FairMOT: On the Fairness of Detection and Re-Identification in Multiple Object Tracking. (arXiv 2020-9)  
+Yifu Zhang, Chunyu Wang, Xinggang Wang, Wenjun Zeng, Wenyu Liu.  
+[[paper](https://arxiv.org/pdf/2004.01888.pdf)] [[code](https://github.com/ifzhang/FairMOT)]  
 
 + TransTrack: Multiple-Object Tracking with Transformer. (arXiv 2020-12-31)   
 Peize Sun, Jinkun Cao, Yi Jiang, Rufeng Zhang, Enze Xie, Zehuan Yuan, Changhu Wang, Ping Luo.  
