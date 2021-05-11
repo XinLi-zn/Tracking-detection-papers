@@ -3,7 +3,7 @@
 ## arXiv 2021
 
 + MOTR: End-to-End Multiple-Object Tracking with TRansformer. [[paper](https://arxiv.org/pdf/2105.03247.pdf)] [[code](https://github.com/megvii-model/MOTR)]  
-Fangao Zeng*, Bin Dong*,  Tiancai Wang*, Cheng Chen, Xiangyu Zhang, Yichen Wei. arXiv, 2021-5-21. 
+Fangao Zeng*, Bin Dong*,  Tiancai Wang*, Cheng Chen, Xiangyu Zhang, Yichen Wei. arXiv, 2021-5-7. 
 
 + TransMOT: Spatial-Temporal Graph Transformer for Multiple Object Tracking. [[paper](https://arxiv.org/pdf/2104.00194.pdf)]  
 Peng Chu, Jiang Wang, Quanzeng You, Haibin Ling, Zicheng Liu. arXiv, 2021-4-1.
