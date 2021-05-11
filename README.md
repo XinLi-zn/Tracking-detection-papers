@@ -2,25 +2,51 @@
 
 ## arXiv 2021
 
-+ MOTR: End-to-End Multiple-Object Tracking with TRansformer. [[paper](https://arxiv.org/pdf/2105.03247.pdf)] [[code](https://github.com/megvii-model/MOTR)]  
-Fangao Zeng*, Bin Dong*,  Tiancai Wang*, Cheng Chen, Xiangyu Zhang, Yichen Wei. arXiv, 2021-5-7. 
++ MOTR: End-to-End Multiple-Object Tracking with TRansformer. (arXiv 2021-5-7)  
+Fangao Zeng*, Bin Dong*,  Tiancai Wang*, Cheng Chen, Xiangyu Zhang, Yichen Wei.  
+[[paper](https://arxiv.org/pdf/2105.03247.pdf)] [[code](https://github.com/megvii-model/MOTR)]  
 
-+ TransMOT: Spatial-Temporal Graph Transformer for Multiple Object Tracking. [[paper](https://arxiv.org/pdf/2104.00194.pdf)]  
-Peng Chu, Jiang Wang, Quanzeng You, Haibin Ling, Zicheng Liu. arXiv, 2021-4-1.
++ TransMOT: Spatial-Temporal Graph Transformer for Multiple Object Tracking. (arXiv 2021-4-1)  
+Peng Chu, Jiang Wang, Quanzeng You, Haibin Ling, Zicheng Liu.  
+[[paper](https://arxiv.org/pdf/2104.00194.pdf)]  
 
 ## CVPR 2021
 
-+ Multiple Object Tracking with Correlation Learning. [[paper](https://arxiv.org/pdf/2104.03541.pdf)]   
-Qiang Wang, Yun Zheng, Pan Pan, Yinghui Xu. CVPR 2021.  
++ Multiple Object Tracking with Correlation Learning. (CVPR 2021)   
+Qiang Wang, Yun Zheng, Pan Pan, Yinghui Xu.   
+[[paper](https://arxiv.org/pdf/2104.03541.pdf)]  
 
-+ Learnable Graph Matching: Incorporating Graph Partitioning with Deep Feature Learning for Multiple Object Tracking. [[paper](https://arxiv.org/pdf/2103.16178.pdf)]  
-Jiawei He, Zehao Huang, Naiyan Wang, Zhaoxiang Zhang. CVPR 2021.  
++ Learnable Graph Matching: Incorporating Graph Partitioning with Deep Feature Learning for Multiple Object Tracking. (CVPR 2021)  
+Jiawei He, Zehao Huang, Naiyan Wang, Zhaoxiang Zhang.  
+[[paper](https://arxiv.org/pdf/2103.16178.pdf)]  
 
+
+## ECCV 2020
+
++ Towards Real-Time Multi-Object Tracking. (ECCV 2020)  
+Zhongdao Wang, Liang Zheng, Yixuan Liu, Yali Li, Shengjin Wang.  
+[[paper](https://arxiv.org/pdf/1909.12605.pdf)]  [[code](https://github.com/Zhongdao/Towards-Realtime-MOT)]
+
++ CenterNet Tracking objects as points. (ECCV 2020)  
+Xingyi Zhou, Vladlen Koltun, Philipp Krähenbühl.  
+[[paper](https://arxiv.org/pdf/2004.01177.pdf)]  [[code](https://github.com/xingyizhou/CenterTrack)]   
+
++ Chained-tracker chaining paired attentive regression results for end-to-end joint multiple-object detection and tracking.  (ECCV 2020)  
+Jinlong Peng, Changan Wang, Fangbin Wan, Yang Wu, Yabiao Wang, Ying Tai, Chengjie Wang, Jilin Li, Feiyue Huang, Yanwei Fu.  
+[[paper](https://arxiv.org/pdf/2007.14557.pdf)]  [[code](github.com/pjl1995/CTracker)]    
+
+
++ Simultaneous detection and tracking with motion modelling for multiple object tracking. (ECCV 2020)
+ShiJie Sun, Naveed Akhtar, XiangYu Song, HuanSheng Song, Ajmal Mian, Mubarak Shah.  
+[[paper](https://arxiv.org/pdf/2008.08826.pdf)]  
+
+## CVPR 2020
 
 ## arXiv 2020
 
-+ TransTrack: Multiple-Object Tracking with Transformer. [[paper](https://arxiv.org/pdf/2012.15460.pdf)]  
-Peize Sun, Jinkun Cao, Yi Jiang, Rufeng Zhang, Enze Xie, Zehuan Yuan, Changhu Wang, Ping Luo. arXiv, 2020-12-31.
++ TransTrack: Multiple-Object Tracking with Transformer. (arXiv 2020-12-31)   
+Peize Sun, Jinkun Cao, Yi Jiang, Rufeng Zhang, Enze Xie, Zehuan Yuan, Changhu Wang, Ping Luo.  
+[[paper](https://arxiv.org/pdf/2012.15460.pdf)]   
 
 
 ## Datasets
