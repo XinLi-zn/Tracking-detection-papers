@@ -25,9 +25,10 @@ Peize Sun, Jinkun Cao, Yi Jiang, Rufeng Zhang, Enze Xie, Zehuan Yuan, Changhu Wa
 
 ## Datasets
 
-+ Reducing the Annotation Effort for Video Object Segmentation Datasets. (WACV 2021)  
+<!-- + Reducing the Annotation Effort for Video Object Segmentation Datasets. (WACV 2021)  
 Paul Voigtlaender, Lishu Luo, Chun Yuan, Yong Jiang, Bastian Leibe.  
 [[paper](https://arxiv.org/pdf/2011.01142.pdf)] [[project](https://www.vision.rwth-aachen.de/page/taovos)]
+-->
 
 + TAO: A Large-Scale Benchmark for Tracking Any Object. (ECCV 2020)    
 Achal Dave, Tarasha Khurana, Pavel Tokmakov, Cordelia Schmid, Deva Ramanan.  
