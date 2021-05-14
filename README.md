@@ -71,6 +71,18 @@ Francisco Rivera Valverde, Juana Valeria Hurtado, Abhinav Valada.
 Jialian Wu, Jiale Cao, Liangchen Song, Yu Wang, Ming Yang, Junsong Yuan.  
 [[paper](https://arxiv.org/pdf/2103.08808.pdf)][[code](https://jialianwu.com/projects/TraDeS.html)] 
 
++ DyGLIP: A Dynamic Graph Model With Link Prediction for Accurate Multi-Camera Multiple Object Tracking. (CVPR 2021)  
+Kha Gia Quach, Pha Nguyen, Huu Le, Thanh-Dat Truong, Chi Nhan Duong, Minh-Triet Tran, Khoa Luu.  
+[[code](https://github.com/uark-cviu/DyGLIP)] 
+
+Probabilistic Tracklet Scoring and Inpainting for Multiple Object Tracking. (CVPR 2021)  
+Fatemeh Saleh, Sadegh Aliakbarian, Hamid Rezatofighi, Mathieu Salzmann, Stephen Gould.  
+[[paper](https://arxiv.org/pdf/2012.02337.pdf)] 
+
++ Track, Check, Repeat: An EM Approach to Unsupervised Tracking. (CVPR 2021)  
+Adam W. Harley, Yiming Zuo, Jing Wen, Ayush Mangal, Shubhankar Potdar, Ritwick Chaudhry, Katerina Fragkiadaki.  
+[[paper](https://arxiv.org/pdf/2012.02337.pdf)] 
+
 + SiamMOT: Siamese Multi-Object Tracking. (CVPR 2021)  Track to Detect and Segment: An Online Multi-Object Tracker
 Jialian Wu, Jiale Cao, Liangchen Song, Yu Wang, Ming Yang, Junsong Yuan
 Bing Shuai, Andrew Berneshawi, Xinyu Li, Davide Modolo, Joseph Tighe.  
@@ -89,17 +101,12 @@ Jiawei He, Zehao Huang, Naiyan Wang, Zhaoxiang Zhang.
 
 + Improving Multiple Object Tracking With Single Object Tracking. (CVPR 2021)
 
-+ Progressive Unsupervised Learning for Visual Object Tracking. (CVPR 2021)
-
-+ Learning To Filter: Siamese Relation Network for Robust Tracking. (CVPR 2021)  
-
 + Polygonal Point Set Tracking. (CVPR 2021)  
 
 + Seeing Behind Objects for 3D Multi-Object Tracking in RGB-D Sequences. (CVPR 2021)  
 
 + Detection, Tracking, and Counting Meets Drones in Crowds: A Benchmark 
 
-+ CapsuleRRT: Relationships-Aware Regression Tracking via Capsules. (CVPR 2021)  
 
 
 
