@@ -34,6 +34,26 @@ Zikai Zhang, Bineng Zhong, Shengping Zhang, Zhenjun Tang, Xin Liu, Zhaoxiang Zha
 Peng Dai, Renliang Weng, Wongun Choi, Changshui Zhang, Zhangping He, Wei Ding.  
 [[paper](https://arxiv.org/pdf/2103.07889.pdf)]  [[code](https://github.com/daip13/LPC_MOT.git)] 
 
++ Online Multiple Object Tracking with Cross-Task Synergy. (CVPR 2021)  
+Song Guo, Jingya Wang, Xinchao Wang, Dacheng Tao.  
+[[paper](https://arxiv.org/pdf/2104.00380.pdf)]  [[code](https://github.com/songguocode/TADAM)] 
+
++ Discriminative Appearance Modeling With Multi-Track Pooling for Real-Time Multi-Object Tracking. (CVPR 2021)  
+Chanho Kim, Li Fuxin, Mazen Alotaibi, James M. Rehg.  
+[[paper](https://arxiv.org/pdf/2101.12159.pdf)]  [[code](https://github.com/chkim403/blstm-mtp)]  
+
++ GMOT-40: A Benchmark for Generic Multiple Object Tracking. (CVPR 2021)  
+Hexin Bai, Wensheng Cheng, Peng Chu, Juehuan Liu, Kai Zhang, Haibin Ling.  
+[[paper](https://arxiv.org/pdf/2011.11858.pdf)]  [[code](https://github.com/Spritea/GMOT40)] 
+
++ There is More than Meets the Eye: Self-Supervised Multi-Object Detection and Tracking with Sound by Distilling Multimodal Knowledge.  (CVPR 2021)  
+Francisco Rivera Valverde, Juana Valeria Hurtado, Abhinav Valada.  
+[[paper](https://arxiv.org/abs/2103.01353)]  [[code](https://github.com/Spritea/GMOT40)] 
+
++ SiamMOT: Siamese Multi-Object Tracking
+
++ Improving Multiple Pedestrian Tracking by Track Management and Occlusion Handling. (CVPR 2021)
+
 + Improving Multiple Object Tracking With Single Object Tracking. (CVPR 2021)
 
 + Progressive Unsupervised Learning for Visual Object Tracking. (CVPR 2021)
@@ -44,17 +64,11 @@ Peng Dai, Renliang Weng, Wongun Choi, Changshui Zhang, Zhangping He, Wei Ding.
 
 + Seeing Behind Objects for 3D Multi-Object Tracking in RGB-D Sequences. (CVPR 2021)  
 
-+ GMOT-40: A Benchmark for Generic Multiple Object Tracking. (CVPR 2021)  
-Hexin Bai, Wensheng Cheng, Peng Chu, Juehuan Liu, Kai Zhang, Haibin Ling.  
-[[paper](https://arxiv.org/pdf/2011.11858.pdf)]  [[code](https://github.com/Spritea/GMOT40)] 
-
 + Detection, Tracking, and Counting Meets Drones in Crowds: A Benchmark 
 
-+ Online Multiple Object Tracking with Cross-Task Synergy. (CVPR 2021)  
-Song Guo, Jingya Wang, Xinchao Wang, Dacheng Tao.  
-[[paper](https://arxiv.org/pdf/2104.00380.pdf)]  [[code](https://github.com/songguocode/TADAM)] 
++ CapsuleRRT: Relationships-Aware Regression Tracking via Capsules. (CVPR 2021)  
 
-+ Discriminative Appearance Modeling With Multi-Track Pooling for Real-Time Multi-Object Tracking. (CVPR 2021)  
+
 
 ## ECCV 2020
 
