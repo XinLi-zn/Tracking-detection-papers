@@ -22,6 +22,18 @@ Yihong Xu, Yutong Ban, Guillaume Delorme, Chuang Gan, Daniela Rus, Xavier Alamed
 Xuewu Lin, Yu-ang Guo, Jianqiang Wang.  
 [[paper](https://arxiv.org/pdf/2103.15145.pdf)] 
 
++ DEFT: Detection Embeddings for Tracking. (arXiv 2021-2)  
+Mohamed Chaabane, Peter Zhang, J. Ross Beveridge, Stephen O'Hara.  
+[[paper](https://arxiv.org/pdf/2102.02267.pdf)] [[code](https://github.com/MedChaabane/DEFT)] 
+
++ TrackMPNN: A Message Passing Graph Neural Architecture for Multi-Object Tracking. (arXiv 2021-1)  
+Akshay Rangesh, Pranav Maheshwari, Mez Gebre, Siddhesh Mhatre, Vahid Ramezani, Mohan M. Trivedi.  
+[[paper](https://arxiv.org/pdf/2101.04206.pdf)] [[code](https://github.com/arangesh/TrackMPNN)] 
+
++ TrackFormer: Multi-Object Tracking with Transformers. (arXiv 2021-1)  
+Tim Meinhardt, Alexander Kirillov, Laura Leal-Taixe, Christoph Feichtenhofer.  
+[[paper](https://arxiv.org/pdf/2101.02702.pdf)] [[code](https://github.com/timmeinhardt/trackformer)] 
+
 ## CVPR 2021
 
 + Multiple Object Tracking with Correlation Learning. (CVPR 2021)   
@@ -65,8 +77,9 @@ Jialian Wu, Jiale Cao, Liangchen Song, Yu Wang, Ming Yang, Junsong Yuan
 Bing Shuai, Andrew Berneshawi, Xinyu Li, Davide Modolo, Joseph Tighe.  
 [[paper](https://assets.amazon.science/ee/91/c7a6a6c942aa9c4aca99d71191ea/slimmot-siamese-multi-object-training.pdf)]
 
-+ Track to Detect and Segment: An Online Multi-Object Tracker
-Jialian Wu, Jiale Cao, Liangchen Song, Yu Wang, Ming Yang, Junsong Yuan  
++ Track to Detect and Segment: An Online Multi-Object Tracker. (CVPR 2021)  
+Jialian Wu, Jiale Cao, Liangchen Song, Yu Wang, Ming Yang, Junsong Yuan.  
+[[paper](https://arxiv.org/pdf/2103.08808.pdf)][[code](https://jialianwu.com/projects/TraDeS.html)] 
 
 + Improving Multiple Pedestrian Tracking by Track Management and Occlusion Handling. (CVPR 2021)
 
