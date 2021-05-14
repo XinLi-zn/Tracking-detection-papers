@@ -10,7 +10,17 @@ Fangao Zeng*, Bin Dong*,  Tiancai Wang*, Cheng Chen, Xiangyu Zhang, Yichen Wei.
 Peng Chu, Jiang Wang, Quanzeng You, Haibin Ling, Zicheng Liu.  
 [[paper](https://arxiv.org/pdf/2104.00194.pdf)]  
 
++ RelationTrack: Relation-aware Multiple Object Tracking with Decoupled Representation. (arXiv 2021-5)  
+En Yu, Zhuoling Li, Shoudong Han, Hongwei Wang  
+[[paper](https://arxiv.org/pdf/2105.04322.pdf)] 
 
++ TransCenter: Transformers with Dense Queries for Multiple-Object Tracking. (arXiv 2021-3)  
+Yihong Xu, Yutong Ban, Guillaume Delorme, Chuang Gan, Daniela Rus, Xavier Alameda-Pineda.  
+[[paper](https://arxiv.org/pdf/2103.15145.pdf)] 
+
++ Global Correlation Network: End-to-End Joint Multi-Object Detection and Tracking. (CVPR 2021)  
+Xuewu Lin, Yu-ang Guo, Jianqiang Wang.  
+[[paper](https://arxiv.org/pdf/2103.15145.pdf)] 
 
 ## CVPR 2021
 
@@ -48,9 +58,15 @@ Hexin Bai, Wensheng Cheng, Peng Chu, Juehuan Liu, Kai Zhang, Haibin Ling.
 
 + There is More than Meets the Eye: Self-Supervised Multi-Object Detection and Tracking with Sound by Distilling Multimodal Knowledge.  (CVPR 2021)  
 Francisco Rivera Valverde, Juana Valeria Hurtado, Abhinav Valada.  
-[[paper](https://arxiv.org/abs/2103.01353)]  [[code](https://github.com/Spritea/GMOT40)] 
+[[paper](https://arxiv.org/abs/2103.01353)]  [[code](http://rl.unifreiburg.de/research/multimodal-distill)] 
 
-+ SiamMOT: Siamese Multi-Object Tracking
++ SiamMOT: Siamese Multi-Object Tracking. (CVPR 2021)  Track to Detect and Segment: An Online Multi-Object Tracker
+Jialian Wu, Jiale Cao, Liangchen Song, Yu Wang, Ming Yang, Junsong Yuan
+Bing Shuai, Andrew Berneshawi, Xinyu Li, Davide Modolo, Joseph Tighe.  
+[[paper](https://assets.amazon.science/ee/91/c7a6a6c942aa9c4aca99d71191ea/slimmot-siamese-multi-object-training.pdf)]
+
++ Track to Detect and Segment: An Online Multi-Object Tracker
+Jialian Wu, Jiale Cao, Liangchen Song, Yu Wang, Ming Yang, Junsong Yuan  
 
 + Improving Multiple Pedestrian Tracking by Track Management and Occlusion Handling. (CVPR 2021)
 
