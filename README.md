@@ -83,8 +83,7 @@ Fatemeh Saleh, Sadegh Aliakbarian, Hamid Rezatofighi, Mathieu Salzmann, Stephen 
 Adam W. Harley, Yiming Zuo, Jing Wen, Ayush Mangal, Shubhankar Potdar, Ritwick Chaudhry, Katerina Fragkiadaki.  
 [[paper](https://arxiv.org/pdf/2012.02337.pdf)] 
 
-+ SiamMOT: Siamese Multi-Object Tracking. (CVPR 2021)  Track to Detect and Segment: An Online Multi-Object Tracker
-Jialian Wu, Jiale Cao, Liangchen Song, Yu Wang, Ming Yang, Junsong Yuan
++ SiamMOT: Siamese Multi-Object Tracking. (CVPR 2021)  
 Bing Shuai, Andrew Berneshawi, Xinyu Li, Davide Modolo, Joseph Tighe.  
 [[paper](https://assets.amazon.science/ee/91/c7a6a6c942aa9c4aca99d71191ea/slimmot-siamese-multi-object-training.pdf)]
 
