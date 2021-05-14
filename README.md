@@ -6,22 +6,6 @@
 Fangao Zeng*, Bin Dong*,  Tiancai Wang*, Cheng Chen, Xiangyu Zhang, Yichen Wei.  
 [[paper](https://arxiv.org/pdf/2105.03247.pdf)] [[code](https://github.com/megvii-model/MOTR)]  
 
-+ TransMOT: Spatial-Temporal Graph Transformer for Multiple Object Tracking. (arXiv 2021-4-1)  
-Peng Chu, Jiang Wang, Quanzeng You, Haibin Ling, Zicheng Liu.  
-[[paper](https://arxiv.org/pdf/2104.00194.pdf)]  
-
-+ RelationTrack: Relation-aware Multiple Object Tracking with Decoupled Representation. (arXiv 2021-5)  
-En Yu, Zhuoling Li, Shoudong Han, Hongwei Wang  
-[[paper](https://arxiv.org/pdf/2105.04322.pdf)] 
-
-+ TransCenter: Transformers with Dense Queries for Multiple-Object Tracking. (arXiv 2021-3)  
-Yihong Xu, Yutong Ban, Guillaume Delorme, Chuang Gan, Daniela Rus, Xavier Alameda-Pineda.  
-[[paper](https://arxiv.org/pdf/2103.15145.pdf)] 
-
-+ Global Correlation Network: End-to-End Joint Multi-Object Detection and Tracking. (CVPR 2021)  
-Xuewu Lin, Yu-ang Guo, Jianqiang Wang.  
-[[paper](https://arxiv.org/pdf/2103.15145.pdf)] 
-
 + DEFT: Detection Embeddings for Tracking. (arXiv 2021-2)  
 Mohamed Chaabane, Peter Zhang, J. Ross Beveridge, Stephen O'Hara.  
 [[paper](https://arxiv.org/pdf/2102.02267.pdf)] [[code](https://github.com/MedChaabane/DEFT)] 
@@ -34,15 +18,26 @@ Akshay Rangesh, Pranav Maheshwari, Mez Gebre, Siddhesh Mhatre, Vahid Ramezani, M
 Tim Meinhardt, Alexander Kirillov, Laura Leal-Taixe, Christoph Feichtenhofer.  
 [[paper](https://arxiv.org/pdf/2101.02702.pdf)] [[code](https://github.com/timmeinhardt/trackformer)] 
 
++ TransMOT: Spatial-Temporal Graph Transformer for Multiple Object Tracking. (arXiv 2021-4-1)  
+Peng Chu, Jiang Wang, Quanzeng You, Haibin Ling, Zicheng Liu.  
+[[paper](https://arxiv.org/pdf/2104.00194.pdf)]  
+
++ RelationTrack: Relation-aware Multiple Object Tracking with Decoupled Representation. (arXiv 2021-5)  
+En Yu, Zhuoling Li, Shoudong Han, Hongwei Wang  
+[[paper](https://arxiv.org/pdf/2105.04322.pdf)] 
+
++ TransCenter: Transformers with Dense Queries for Multiple-Object Tracking. (arXiv 2021-3)  
+Yihong Xu, Yutong Ban, Guillaume Delorme, Chuang Gan, Daniela Rus, Xavier Alameda-Pineda.  
+[[paper](https://arxiv.org/pdf/2103.15145.pdf)] 
+
++ Global Correlation Network: End-to-End Joint Multi-Object Detection and Tracking. (arXiv 2021-3)  
+Xuewu Lin, Yu-ang Guo, Jianqiang Wang.  
+[[paper](https://arxiv.org/pdf/2103.15145.pdf)] 
+
+
+
 ## CVPR 2021
 
-+ Multiple Object Tracking with Correlation Learning. (CVPR 2021)   
-Qiang Wang, Yun Zheng, Pan Pan, Yinghui Xu.   
-[[paper](https://arxiv.org/pdf/2104.03541.pdf)]  
-
-+ Learnable Graph Matching: Incorporating Graph Partitioning with Deep Feature Learning for Multiple Object Tracking. (CVPR 2021)  
-Jiawei He, Zehao Huang, Naiyan Wang, Zhaoxiang Zhang.  
-[[paper](https://arxiv.org/pdf/2103.16178.pdf)]  
 
 + Quasi-Dense Similarity Learning for Multiple Object Tracking. (CVPR 2021)   
 Jiangmiao Pang, Linlu Qiu, Xia Li, Haofeng Chen, Qi Li, Trevor Darrell, Fisher Yu.  
@@ -72,14 +67,23 @@ Hexin Bai, Wensheng Cheng, Peng Chu, Juehuan Liu, Kai Zhang, Haibin Ling.
 Francisco Rivera Valverde, Juana Valeria Hurtado, Abhinav Valada.  
 [[paper](https://arxiv.org/abs/2103.01353)]  [[code](http://rl.unifreiburg.de/research/multimodal-distill)] 
 
++ Track to Detect and Segment: An Online Multi-Object Tracker. (CVPR 2021)  
+Jialian Wu, Jiale Cao, Liangchen Song, Yu Wang, Ming Yang, Junsong Yuan.  
+[[paper](https://arxiv.org/pdf/2103.08808.pdf)][[code](https://jialianwu.com/projects/TraDeS.html)] 
+
 + SiamMOT: Siamese Multi-Object Tracking. (CVPR 2021)  Track to Detect and Segment: An Online Multi-Object Tracker
 Jialian Wu, Jiale Cao, Liangchen Song, Yu Wang, Ming Yang, Junsong Yuan
 Bing Shuai, Andrew Berneshawi, Xinyu Li, Davide Modolo, Joseph Tighe.  
 [[paper](https://assets.amazon.science/ee/91/c7a6a6c942aa9c4aca99d71191ea/slimmot-siamese-multi-object-training.pdf)]
 
-+ Track to Detect and Segment: An Online Multi-Object Tracker. (CVPR 2021)  
-Jialian Wu, Jiale Cao, Liangchen Song, Yu Wang, Ming Yang, Junsong Yuan.  
-[[paper](https://arxiv.org/pdf/2103.08808.pdf)][[code](https://jialianwu.com/projects/TraDeS.html)] 
++ Multiple Object Tracking with Correlation Learning. (CVPR 2021)   
+Qiang Wang, Yun Zheng, Pan Pan, Yinghui Xu.   
+[[paper](https://arxiv.org/pdf/2104.03541.pdf)]  
+
++ Learnable Graph Matching: Incorporating Graph Partitioning with Deep Feature Learning for Multiple Object Tracking. (CVPR 2021)  
+Jiawei He, Zehao Huang, Naiyan Wang, Zhaoxiang Zhang.  
+[[paper](https://arxiv.org/pdf/2103.16178.pdf)]  
+
 
 + Improving Multiple Pedestrian Tracking by Track Management and Occlusion Handling. (CVPR 2021)
 
