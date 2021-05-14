@@ -1,14 +1,13 @@
 # MOT Papers
 
 ## arXiv 2021
++ DEFT: Detection Embeddings for Tracking. (arXiv 2021-2)  
+Mohamed Chaabane, Peter Zhang, J. Ross Beveridge, Stephen O'Hara.  
+[[paper](https://arxiv.org/pdf/2102.02267.pdf)] [[code](https://github.com/MedChaabane/DEFT)] 
 
 + MOTR: End-to-End Multiple-Object Tracking with TRansformer. (arXiv 2021-5-7)  
 Fangao Zeng*, Bin Dong*,  Tiancai Wang*, Cheng Chen, Xiangyu Zhang, Yichen Wei.  
 [[paper](https://arxiv.org/pdf/2105.03247.pdf)] [[code](https://github.com/megvii-model/MOTR)]  
-
-+ DEFT: Detection Embeddings for Tracking. (arXiv 2021-2)  
-Mohamed Chaabane, Peter Zhang, J. Ross Beveridge, Stephen O'Hara.  
-[[paper](https://arxiv.org/pdf/2102.02267.pdf)] [[code](https://github.com/MedChaabane/DEFT)] 
 
 + TrackMPNN: A Message Passing Graph Neural Architecture for Multi-Object Tracking. (arXiv 2021-1)  
 Akshay Rangesh, Pranav Maheshwari, Mez Gebre, Siddhesh Mhatre, Vahid Ramezani, Mohan M. Trivedi.  
@@ -18,50 +17,72 @@ Akshay Rangesh, Pranav Maheshwari, Mez Gebre, Siddhesh Mhatre, Vahid Ramezani, M
 Tim Meinhardt, Alexander Kirillov, Laura Leal-Taixe, Christoph Feichtenhofer.  
 [[paper](https://arxiv.org/pdf/2101.02702.pdf)] [[code](https://github.com/timmeinhardt/trackformer)] 
 
-+ TransMOT: Spatial-Temporal Graph Transformer for Multiple Object Tracking. (arXiv 2021-4-1)  
-Peng Chu, Jiang Wang, Quanzeng You, Haibin Ling, Zicheng Liu.  
-[[paper](https://arxiv.org/pdf/2104.00194.pdf)]  
++ Global Correlation Network: End-to-End Joint Multi-Object Detection and Tracking. (arXiv 2021-3)  
+Xuewu Lin, Yu-ang Guo, Jianqiang Wang.  
+[[paper](https://arxiv.org/pdf/2103.15145.pdf)] 
 
 + RelationTrack: Relation-aware Multiple Object Tracking with Decoupled Representation. (arXiv 2021-5)  
 En Yu, Zhuoling Li, Shoudong Han, Hongwei Wang  
 [[paper](https://arxiv.org/pdf/2105.04322.pdf)] 
 
++ TransMOT: Spatial-Temporal Graph Transformer for Multiple Object Tracking. (arXiv 2021-4-1)  
+Peng Chu, Jiang Wang, Quanzeng You, Haibin Ling, Zicheng Liu.  
+[[paper](https://arxiv.org/pdf/2104.00194.pdf)]  
+
 + TransCenter: Transformers with Dense Queries for Multiple-Object Tracking. (arXiv 2021-3)  
 Yihong Xu, Yutong Ban, Guillaume Delorme, Chuang Gan, Daniela Rus, Xavier Alameda-Pineda.  
 [[paper](https://arxiv.org/pdf/2103.15145.pdf)] 
 
-+ Global Correlation Network: End-to-End Joint Multi-Object Detection and Tracking. (arXiv 2021-3)  
-Xuewu Lin, Yu-ang Guo, Jianqiang Wang.  
-[[paper](https://arxiv.org/pdf/2103.15145.pdf)] 
+
 
 
 
 ## CVPR 2021
 
 
-+ Quasi-Dense Similarity Learning for Multiple Object Tracking. (CVPR 2021)   
-Jiangmiao Pang, Linlu Qiu, Xia Li, Haofeng Chen, Qi Li, Trevor Darrell, Fisher Yu.  
-[[paper](http://128.84.4.18/pdf/2006.06664)]  [[code](https://github.com/SysCV/qdtrack)]  
-
 + Distractor-Aware Fast Tracking via Dynamic Convolutions and MOT Philosophy. (CVPR 2021)    
 Zikai Zhang, Bineng Zhong, Shengping Zhang, Zhenjun Tang, Xin Liu, Zhaoxiang Zhang.  
 [[paper](https://arxiv.org/pdf/2104.12041.pdf)]  [[code](https://github.com/hqucv/dmtrack)] 
-
-+ Learning a Proposal Classifier for Multiple Object Tracking. (CVPR 2021)  
-Peng Dai, Renliang Weng, Wongun Choi, Changshui Zhang, Zhangping He, Wei Ding.  
-[[paper](https://arxiv.org/pdf/2103.07889.pdf)]  [[code](https://github.com/daip13/LPC_MOT.git)] 
-
-+ Online Multiple Object Tracking with Cross-Task Synergy. (CVPR 2021)  
-Song Guo, Jingya Wang, Xinchao Wang, Dacheng Tao.  
-[[paper](https://arxiv.org/pdf/2104.00380.pdf)]  [[code](https://github.com/songguocode/TADAM)] 
 
 + Discriminative Appearance Modeling With Multi-Track Pooling for Real-Time Multi-Object Tracking. (CVPR 2021)  
 Chanho Kim, Li Fuxin, Mazen Alotaibi, James M. Rehg.  
 [[paper](https://arxiv.org/pdf/2101.12159.pdf)]  [[code](https://github.com/chkim403/blstm-mtp)]  
 
++ DyGLIP: A Dynamic Graph Model With Link Prediction for Accurate Multi-Camera Multiple Object Tracking. (CVPR 2021)  
+Kha Gia Quach, Pha Nguyen, Huu Le, Thanh-Dat Truong, Chi Nhan Duong, Minh-Triet Tran, Khoa Luu.  
+[[code](https://github.com/uark-cviu/DyGLIP)] 
+
 + GMOT-40: A Benchmark for Generic Multiple Object Tracking. (CVPR 2021)  
 Hexin Bai, Wensheng Cheng, Peng Chu, Juehuan Liu, Kai Zhang, Haibin Ling.  
 [[paper](https://arxiv.org/pdf/2011.11858.pdf)]  [[code](https://github.com/Spritea/GMOT40)] 
+
++ Learning a Proposal Classifier for Multiple Object Tracking. (CVPR 2021)  
+Peng Dai, Renliang Weng, Wongun Choi, Changshui Zhang, Zhangping He, Wei Ding.  
+[[paper](https://arxiv.org/pdf/2103.07889.pdf)]  [[code](https://github.com/daip13/LPC_MOT.git)] 
+
++ Learnable Graph Matching: Incorporating Graph Partitioning with Deep Feature Learning for Multiple Object Tracking. (CVPR 2021)  
+Jiawei He, Zehao Huang, Naiyan Wang, Zhaoxiang Zhang.  
+[[paper](https://arxiv.org/pdf/2103.16178.pdf)]  
+
++ Multiple Object Tracking with Correlation Learning. (CVPR 2021)   
+Qiang Wang, Yun Zheng, Pan Pan, Yinghui Xu.   
+[[paper](https://arxiv.org/pdf/2104.03541.pdf)]  
+
++ Online Multiple Object Tracking with Cross-Task Synergy. (CVPR 2021)  
+Song Guo, Jingya Wang, Xinchao Wang, Dacheng Tao.  
+[[paper](https://arxiv.org/pdf/2104.00380.pdf)]  [[code](https://github.com/songguocode/TADAM)] 
+
++ Probabilistic Tracklet Scoring and Inpainting for Multiple Object Tracking. (CVPR 2021)  
+Fatemeh Saleh, Sadegh Aliakbarian, Hamid Rezatofighi, Mathieu Salzmann, Stephen Gould.  
+[[paper](https://arxiv.org/pdf/2012.02337.pdf)] 
+
++ Quasi-Dense Similarity Learning for Multiple Object Tracking. (CVPR 2021)   
+Jiangmiao Pang, Linlu Qiu, Xia Li, Haofeng Chen, Qi Li, Trevor Darrell, Fisher Yu.  
+[[paper](http://128.84.4.18/pdf/2006.06664)]  [[code](https://github.com/SysCV/qdtrack)]  
+
++ SiamMOT: Siamese Multi-Object Tracking. (CVPR 2021)  
+Bing Shuai, Andrew Berneshawi, Xinyu Li, Davide Modolo, Joseph Tighe.  
+[[paper](https://assets.amazon.science/ee/91/c7a6a6c942aa9c4aca99d71191ea/slimmot-siamese-multi-object-training.pdf)]
 
 + There is More than Meets the Eye: Self-Supervised Multi-Object Detection and Tracking with Sound by Distilling Multimodal Knowledge.  (CVPR 2021)  
 Francisco Rivera Valverde, Juana Valeria Hurtado, Abhinav Valada.  
@@ -71,29 +92,9 @@ Francisco Rivera Valverde, Juana Valeria Hurtado, Abhinav Valada.
 Jialian Wu, Jiale Cao, Liangchen Song, Yu Wang, Ming Yang, Junsong Yuan.  
 [[paper](https://arxiv.org/pdf/2103.08808.pdf)][[code](https://jialianwu.com/projects/TraDeS.html)] 
 
-+ DyGLIP: A Dynamic Graph Model With Link Prediction for Accurate Multi-Camera Multiple Object Tracking. (CVPR 2021)  
-Kha Gia Quach, Pha Nguyen, Huu Le, Thanh-Dat Truong, Chi Nhan Duong, Minh-Triet Tran, Khoa Luu.  
-[[code](https://github.com/uark-cviu/DyGLIP)] 
-
-Probabilistic Tracklet Scoring and Inpainting for Multiple Object Tracking. (CVPR 2021)  
-Fatemeh Saleh, Sadegh Aliakbarian, Hamid Rezatofighi, Mathieu Salzmann, Stephen Gould.  
-[[paper](https://arxiv.org/pdf/2012.02337.pdf)] 
-
 + Track, Check, Repeat: An EM Approach to Unsupervised Tracking. (CVPR 2021)  
 Adam W. Harley, Yiming Zuo, Jing Wen, Ayush Mangal, Shubhankar Potdar, Ritwick Chaudhry, Katerina Fragkiadaki.  
 [[paper](https://arxiv.org/pdf/2012.02337.pdf)] 
-
-+ SiamMOT: Siamese Multi-Object Tracking. (CVPR 2021)  
-Bing Shuai, Andrew Berneshawi, Xinyu Li, Davide Modolo, Joseph Tighe.  
-[[paper](https://assets.amazon.science/ee/91/c7a6a6c942aa9c4aca99d71191ea/slimmot-siamese-multi-object-training.pdf)]
-
-+ Multiple Object Tracking with Correlation Learning. (CVPR 2021)   
-Qiang Wang, Yun Zheng, Pan Pan, Yinghui Xu.   
-[[paper](https://arxiv.org/pdf/2104.03541.pdf)]  
-
-+ Learnable Graph Matching: Incorporating Graph Partitioning with Deep Feature Learning for Multiple Object Tracking. (CVPR 2021)  
-Jiawei He, Zehao Huang, Naiyan Wang, Zhaoxiang Zhang.  
-[[paper](https://arxiv.org/pdf/2103.16178.pdf)]  
 
 
 + Improving Multiple Pedestrian Tracking by Track Management and Occlusion Handling. (CVPR 2021)
@@ -104,8 +105,7 @@ Jiawei He, Zehao Huang, Naiyan Wang, Zhaoxiang Zhang.
 
 + Seeing Behind Objects for 3D Multi-Object Tracking in RGB-D Sequences. (CVPR 2021)  
 
-+ Detection, Tracking, and Counting Meets Drones in Crowds: A Benchmark 
-
++ Detection, Tracking, and Counting Meets Drones in Crowds: A Benchmark. (CVPR 2021)
 
 
 
