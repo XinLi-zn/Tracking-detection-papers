@@ -10,6 +10,8 @@ Fangao Zeng*, Bin Dong*,  Tiancai Wang*, Cheng Chen, Xiangyu Zhang, Yichen Wei.
 Peng Chu, Jiang Wang, Quanzeng You, Haibin Ling, Zicheng Liu.  
 [[paper](https://arxiv.org/pdf/2104.00194.pdf)]  
 
+
+
 ## CVPR 2021
 
 + Multiple Object Tracking with Correlation Learning. (CVPR 2021)   
@@ -20,6 +22,39 @@ Qiang Wang, Yun Zheng, Pan Pan, Yinghui Xu.
 Jiawei He, Zehao Huang, Naiyan Wang, Zhaoxiang Zhang.  
 [[paper](https://arxiv.org/pdf/2103.16178.pdf)]  
 
++ Quasi-Dense Similarity Learning for Multiple Object Tracking. (CVPR 2021)   
+Jiangmiao Pang, Linlu Qiu, Xia Li, Haofeng Chen, Qi Li, Trevor Darrell, Fisher Yu.  
+[[paper](http://128.84.4.18/pdf/2006.06664)]  [[code](https://github.com/SysCV/qdtrack)]  
+
++ Distractor-Aware Fast Tracking via Dynamic Convolutions and MOT Philosophy. (CVPR 2021)    
+Zikai Zhang, Bineng Zhong, Shengping Zhang, Zhenjun Tang, Xin Liu, Zhaoxiang Zhang.  
+[[paper](https://arxiv.org/pdf/2104.12041.pdf)]  [[code](https://github.com/hqucv/dmtrack)] 
+
++ Learning a Proposal Classifier for Multiple Object Tracking. (CVPR 2021)  
+Peng Dai, Renliang Weng, Wongun Choi, Changshui Zhang, Zhangping He, Wei Ding.  
+[[paper](https://arxiv.org/pdf/2103.07889.pdf)]  [[code](https://github.com/daip13/LPC_MOT.git)] 
+
++ Improving Multiple Object Tracking With Single Object Tracking. (CVPR 2021)
+
++ Progressive Unsupervised Learning for Visual Object Tracking. (CVPR 2021)
+
++ Learning To Filter: Siamese Relation Network for Robust Tracking. (CVPR 2021)  
+
++ Polygonal Point Set Tracking. (CVPR 2021)  
+
++ Seeing Behind Objects for 3D Multi-Object Tracking in RGB-D Sequences. (CVPR 2021)  
+
++ GMOT-40: A Benchmark for Generic Multiple Object Tracking. (CVPR 2021)  
+Hexin Bai, Wensheng Cheng, Peng Chu, Juehuan Liu, Kai Zhang, Haibin Ling.  
+[[paper](https://arxiv.org/pdf/2011.11858.pdf)]  [[code](https://github.com/Spritea/GMOT40)] 
+
++ Detection, Tracking, and Counting Meets Drones in Crowds: A Benchmark 
+
++ Online Multiple Object Tracking with Cross-Task Synergy. (CVPR 2021)  
+Song Guo, Jingya Wang, Xinchao Wang, Dacheng Tao.  
+[[paper](https://arxiv.org/pdf/2104.00380.pdf)]  [[code](https://github.com/songguocode/TADAM)] 
+
++ Discriminative Appearance Modeling With Multi-Track Pooling for Real-Time Multi-Object Tracking. (CVPR 2021)  
 
 ## ECCV 2020
 
