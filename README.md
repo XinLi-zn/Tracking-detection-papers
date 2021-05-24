@@ -142,6 +142,12 @@ Zhichao Lu, Vivek Rathod, Ronny Votel, Jonathan Huang.
 [[paper](https://arxiv.org/pdf/2003.13870.pdf)] 
 
 
+## AAAI 2020
+
++ Dasot: A unified framework integrating data association and single object tracking for online multi-object tracking.
+Qi Chu,Wanli Ouyang, Bin Liu, Feng Zhu, and Nenghai Yu.
+[[paper](https://ojs.aaai.org//index.php/AAAI/article/view/6694)] 
+
 ## arXiv 2020
 
 + FairMOT: On the Fairness of Detection and Re-Identification in Multiple Object Tracking. (arXiv 2020-9)  
