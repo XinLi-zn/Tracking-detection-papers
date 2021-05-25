@@ -1,6 +1,11 @@
 # MOT Papers
 
 ## arXiv 2021
++ One More Check: Making "Fake Background" Be Tracked Again. (arXiv 2021-4)  
+Chao Liang, Zhipeng Zhang, Xue Zhou, Bing Li, Yi Lu, Weiming Hu.  
+[[paper](https://arxiv.org/pdf/2104.09441.pdf)]  [[code](https://github.com/JudasDie/SOTS)]  
+
+
 + DEFT: Detection Embeddings for Tracking. (arXiv 2021-2)  
 Mohamed Chaabane, Peter Zhang, J. Ross Beveridge, Stephen O'Hara.  
 [[paper](https://arxiv.org/pdf/2102.02267.pdf)] [[code](https://github.com/MedChaabane/DEFT)] 
@@ -153,6 +158,11 @@ Qi Chu,Wanli Ouyang, Bin Liu, Feng Zhu, and Nenghai Yu.
 + FairMOT: On the Fairness of Detection and Re-Identification in Multiple Object Tracking. (arXiv 2020-9)  
 Yifu Zhang, Chunyu Wang, Xinggang Wang, Wenjun Zeng, Wenyu Liu.  
 [[paper](https://arxiv.org/pdf/2004.01888.pdf)] [[code](https://github.com/ifzhang/FairMOT)]  
+
+
++ Rethinking the competition between detection and ReID in Multi-Object Tracking. (arXiv 2020-10)  
+Chao Liang, Zhipeng Zhang, Yi Lu, Xue Zhou, Bing Li, Xiyong Ye, Jianxiao Zou.  
+[[paper](https://arxiv.org/pdf/2010.12138.pdf)] [[code]( https://github.com/JudasDie/SOTS)] 
 
 + TransTrack: Multiple-Object Tracking with Transformer. (arXiv 2020-12-31)   
 Peize Sun, Jinkun Cao, Yi Jiang, Rufeng Zhang, Enze Xie, Zehuan Yuan, Changhu Wang, Ping Luo.  
