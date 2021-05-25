@@ -158,8 +158,8 @@ Yifu Zhang, Chunyu Wang, Xinggang Wang, Wenjun Zeng, Wenyu Liu.
 Peize Sun, Jinkun Cao, Yi Jiang, Rufeng Zhang, Enze Xie, Zehuan Yuan, Changhu Wang, Ping Luo.  
 [[paper](https://arxiv.org/pdf/2012.15460.pdf)]   
 
-+ MAT: Motion-Aware Multi-Object Tracking. (arXiv 2020-9)  
-Shoudong Han, Piao Huang, Hongwei Wang, En Yu, Donghaisheng Liu, Xiaofeng Pan, Jun Zhao.
++ MAT: Motion-Aware Multi-Object Tracking. (arXiv 2020-9)   
+Shoudong Han, Piao Huang, Hongwei Wang, En Yu, Donghaisheng Liu, Xiaofeng Pan, Jun Zhao.  
 [[paper](https://arxiv.org/ftp/arxiv/papers/2009/2009.04794.pdf)]  
 
 ## Datasets
