@@ -60,6 +60,14 @@ Qiang Zhou, Chaohui Yu, Zhibin Wang, Qi Qian, Hao Li
 Jinhong Deng, Wen Li, Yuhua Chen, Lixin Duan  
 [[paper](https://arxiv.org/abs/2103.11402)] 
 
++ MeGA-CDA: Memory Guided Attention for Category-Aware Unsupervised Domain Adaptive Object Detection  
+Vibashan VS, Vikram Gupta, Poojan Oza, Vishwanath A. Sindagi, Vishal M. Patel  
+[[paper](https://arxiv.org/pdf/2103.04224)]  
+
++ Generalized Few-Shot Object Detection without Forgetting  
+Zhibo Fan, Yuchen Ma, Zeming Li, Jian Sun  
+[[paper](https://arxiv.org/pdf/2105.09491.pdf)] 
+
 + Leveraging Large-Scale Weakly Labeled Data for Semi-Supervised Mass Detection in Mammograms  
 + Humble Teachers Teach Better Students for Semi-Supervised Object Detection  
 
