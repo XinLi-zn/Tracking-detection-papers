@@ -204,6 +204,14 @@ Jianfeng Wang, Lin Song, Zeming Li, Hongbin Sun, Jian Sun, Nanning Zheng
 Xiangning Chen, Cihang Xie, Mingxing Tan, Li Zhang, Cho-Jui Hsieh, Boqing Gong  
 [[paper](https://arxiv.org/pdf/2103.13886.pdf)] [[code](https://github.com/google/automl/blob/master/efficientdet/Det-AdvProp.md)]
 
++ A Closer Look at Fourier Spectrum Discrepancies for CNN-generated Images Detection  
+Keshigeyan Chandrasegaran, Ngoc-Trung Tran, Ngai-Man Cheung  
+[[paper](https://arxiv.org/pdf/2103.17195.pdf)] [[code](https://keshik6.github.io/FourierDiscrepancies-CNN-Detection/)]
+
++ OTA: Optimal Transport Assignment for Object Detection  
+Zheng Ge, Songtao Liu, Zeming Li, Osamu Yoshie, Jian Sun  
+[[paper](https://arxiv.org/pdf/2103.14259.pdf)] [[code](https://github.com/Megvii-BaseDetection/OTA)]
+
 + Few-Shot Object Detection via Classification Refinement and Distractor Retreatment  
 
 + Accurate Few-Shot Object Detection With Support-Query Mutual Guidance and Hybrid Loss  
