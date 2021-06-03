@@ -80,7 +80,7 @@ Zhenyu Wang, Yali Li, Ye Guo, Lu Fang, Shengjin Wang
 Tianning Yuan, Fang Wan, Mengying Fu, Jianzhuang Liu, Songcen Xu, Xiangyang Ji, Qixiang Ye   
 [[paper](https://arxiv.org/pdf/2104.02324.pdf)]  [[code](https://github.com/yuantn/MI-AOD)]
 
-+Towards Open World Object Detection  
++ Towards Open World Object Detection  
 K J Joseph, Salman Khan, Fahad Shahbaz Khan, Vineeth N Balasubramanian  
 [[paper](https://arxiv.org/pdf/2103.02603.pdf)]  [[code](https://github.com/JosephKJ/OWOD)]
 
@@ -207,7 +207,7 @@ Xiangning Chen, Cihang Xie, Mingxing Tan, Li Zhang, Cho-Jui Hsieh, Boqing Gong
 + RPN Prototype Alignment for Domain Adaptive Object Detector  
 
 +  Adaptive Image Transformer for One-Shot Object Detection
-+  
+
 + Informative and Consistent Correspondence Mining for Cross-Domain Weakly Supervised Object Detection  
 
 + Beyond Bounding-Box: Convex-Hull Feature Adaptation for Oriented and Densely Packed Object Detection  
