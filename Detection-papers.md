@@ -4,6 +4,12 @@
 
 ## CVPR 2021
 
+### Related fields
++ Generalized Domain Adaptation  
+Yu Mitsuzumi Go Irie Daiki Ikami Takashi Shibata  
+[[paper](https://arxiv.org/pdf/2106.01656.pdf)]  [[code](https://github.com/nttcslab/Generalized-Domain-Adaptation)]  
+
+### Detection
 + You Only Look One-level Feature  
 Qiang Chen, Yingming Wang, Tong Yang, Xiangyu Zhang, Jian Cheng, Jian Sun  
 [[paper](https://arxiv.org/pdf/2103.09460.pdf)]  [[code](https://github.com/megvii-model/YOLOF)]  
