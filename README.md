@@ -99,7 +99,7 @@ Jialian Wu, Jiale Cao, Liangchen Song, Yu Wang, Ming Yang, Junsong Yuan.
 
 + Track, Check, Repeat: An EM Approach to Unsupervised Tracking. (CVPR 2021)  
 Adam W. Harley, Yiming Zuo, Jing Wen, Ayush Mangal, Shubhankar Potdar, Ritwick Chaudhry, Katerina Fragkiadaki.  
-[[paper](https://arxiv.org/pdf/2012.02337.pdf)] 
+[[paper](https://arxiv.org/pdf/2104.03424.pdf)] 
 
 
 + Improving Multiple Pedestrian Tracking by Track Management and Occlusion Handling. (CVPR 2021)
