@@ -2,6 +2,14 @@
 
 # Detection Papers
 
+## PAMI
+
+### Detection
++ Instance-Invariant Domain Adaptive Object Detection via Progressive Disentanglement 
+Aming Wu, Yahong Han, Linchao Zhu, Yi Yang   
+[[paper](https://arxiv.org/pdf/1911.08712.pdf)]  
+
+
 ## CVPR 2021
 
 ### Related fields
