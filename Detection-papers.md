@@ -10,6 +10,16 @@ Aming Wu, Yahong Han, Linchao Zhu, Yi Yang
 [[paper](https://arxiv.org/pdf/1911.08712.pdf)]  
 
 
+
+
+## Semi-Supervised Object Detection
+### ArXiv 2021
+
++ End-to-End Semi-Supervised Object Detection with Soft Teacher   
+Mengde Xu, Zheng Zhang, Han Hu, Jianfeng Wang, Lijuan Wang, Fangyun Wei, Xiang Bai, Zicheng Liu   
+[[paper](https://arxiv.org/pdf/2106.09018.pdf)]  [[code]()]  
+
+
 ## CVPR 2021
 
 ### Related fields
