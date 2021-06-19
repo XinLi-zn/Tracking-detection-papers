@@ -264,6 +264,11 @@ Zheng Ge, Songtao Liu, Zeming Li, Osamu Yoshie, Jian Sun
 [[paper](https://arxiv.org/pdf/2103.14259.pdf)] [[code](https://github.com/Megvii-BaseDetection/OTA)]
 
 ## Others
+### ArXiv 2021
+
++ 2nd Place Solution for Waymo Open Dataset Challenge — Real-time 2D Object Detection 
+Yueming Zhang, Xiaolin Song, Bing Bai, Tengfei Xing, Chao Liu, Xin Gao, Zhihui Wang, Yawei Wen, Haojin Liao, Guoshan Zhang, Pengfei Xu  
+[[paper](https://arxiv.org/pdf/2106.08713.pdf)]
 
 ### CVPR 2021  
 + RPN Prototype Alignment for Domain Adaptive Object Detector  
