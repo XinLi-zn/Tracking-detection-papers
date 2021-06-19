@@ -2,6 +2,35 @@
 
 # Detection Papers
 
+## Others
+### ArXiv 2021   
++ 2nd Place Solution for Waymo Open Dataset Challenge — Real-time 2D Object Detection 
+Yueming Zhang, Xiaolin Song, Bing Bai, Tengfei Xing, Chao Liu, Xin Gao, Zhihui Wang, Yawei Wen, Haojin Liao, Guoshan Zhang, Pengfei Xu  
+[[paper](https://arxiv.org/pdf/2106.08713.pdf)]
+
++ Towards Total Recall in Industrial Anomaly Detection 
+Karsten Roth, Latha Pemula, Joaquin Zepeda, Bernhard Schölkopf, Thomas Brox, Peter Gehler   
+[[paper](https://arxiv.org/pdf/2106.08265.pdf)]
+
+### CVPR 2021   
++ RPN Prototype Alignment for Domain Adaptive Object Detector  
+
++ Informative and Consistent Correspondence Mining for Cross-Domain Weakly Supervised Object Detection  
+
++ Beyond Bounding-Box: Convex-Hull Feature Adaptation for Oriented and Densely Packed Object Detection  
+
++ Dynamic Head: Unifying Object Detection Heads With Attentions  
+Xiyang Dai, Yinpeng Chen, Bin Xiao, Dongdong Chen, Mengchen Liu, Lu Yuan, Lei Zhang  
+[[paper](https://arxiv.org/pdf/2106.08322.pdf)] [[code](https://github.com/microsoft/DynamicHead)]
+
++ Layer-Wise Searching for 1-Bit Detectors  
+
++ Positive-Unlabeled Data Purification in the Wild for Object Detection  
+
++ GAIA: A Transfer Learning System of Object Detection That Fits Your Needs.  
+
++ RankDetNet: Delving Into Ranking Constraints for Object Detection.
+
 ## Semi-Supervised, UN-supervised, and self-supervised Object Detection
 ### ArXiv 2021
 
@@ -263,29 +292,6 @@ Keshigeyan Chandrasegaran, Ngoc-Trung Tran, Ngai-Man Cheung
 Zheng Ge, Songtao Liu, Zeming Li, Osamu Yoshie, Jian Sun  
 [[paper](https://arxiv.org/pdf/2103.14259.pdf)] [[code](https://github.com/Megvii-BaseDetection/OTA)]
 
-## Others
-### ArXiv 2021
-
-+ 2nd Place Solution for Waymo Open Dataset Challenge — Real-time 2D Object Detection 
-Yueming Zhang, Xiaolin Song, Bing Bai, Tengfei Xing, Chao Liu, Xin Gao, Zhihui Wang, Yawei Wen, Haojin Liao, Guoshan Zhang, Pengfei Xu  
-[[paper](https://arxiv.org/pdf/2106.08713.pdf)]
-
-### CVPR 2021  
-+ RPN Prototype Alignment for Domain Adaptive Object Detector  
-
-+ Informative and Consistent Correspondence Mining for Cross-Domain Weakly Supervised Object Detection  
-
-+ Beyond Bounding-Box: Convex-Hull Feature Adaptation for Oriented and Densely Packed Object Detection  
-
-+ Dynamic Head: Unifying Object Detection Heads With Attentions  
-
-+ Layer-Wise Searching for 1-Bit Detectors  
-
-+ Positive-Unlabeled Data Purification in the Wild for Object Detection  
-
-+ GAIA: A Transfer Learning System of Object Detection That Fits Your Needs.  
-
-+ RankDetNet: Delving Into Ranking Constraints for Object Detection.
 
 
 ### Related fields
