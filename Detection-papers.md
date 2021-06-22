@@ -73,7 +73,9 @@ Ceyuan Yang, Zhirong Wu, Bolei Zhou, Stephen Lin
 
 + Leveraging Large-Scale Weakly Labeled Data for Semi-Supervised Mass Detection in Mammograms
 
-+ Humble Teachers Teach Better Students for Semi-Supervised Object Detection
++ Humble Teachers Teach Better Students for Semi-Supervised Object Detection  
+Yihe Tang, Weifeng Chen, Yijun Luo, Yuting Zhang  
+[[paper](https://arxiv.org/pdf/2106.10456.pdff)]  [[code](https://github.com/lryta/HumbleTeacher)]
 
 ## Transformer-based Object Detection
 
