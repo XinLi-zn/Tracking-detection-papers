@@ -1,10 +1,13 @@
 # MOT Papers
 
 ## arXiv 2021
++ Prototypical Cross-Attention Networks for Multiple Object Tracking and Segmentation. (arXiv 2021-6)   
+Lei Ke, Xia Li, Martin Danelljan, Yu-Wing Tai, Chi-Keung Tang, Fisher Yu.    
+[[paper](https://arxiv.org/pdf/2106.11958.pdf)]  [[code](https://github.com/JudasDie/SOTS)] 
+
 + One More Check: Making "Fake Background" Be Tracked Again. (arXiv 2021-4)  
 Chao Liang, Zhipeng Zhang, Xue Zhou, Bing Li, Yi Lu, Weiming Hu.  
 [[paper](https://arxiv.org/pdf/2104.09441.pdf)]  [[code](https://github.com/JudasDie/SOTS)]  
-
 
 + DEFT: Detection Embeddings for Tracking. (arXiv 2021-2)  
 Mohamed Chaabane, Peter Zhang, J. Ross Beveridge, Stephen O'Hara.  
