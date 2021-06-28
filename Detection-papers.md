@@ -89,8 +89,8 @@ Yihe Tang, Weifeng Chen, Yijun Luo, Yuting Zhang
 Zhigang Dai, Bolun Cai, Yugeng Lin, Junying Chen.
 [[paper](https://arxiv.org/pdf/2011.09094)]  [[code](https://github.com/dddzg/up-detr)]
 
-+ Deformable DETR: Deformable Transformers for End-to-End Object Detection.
-Xizhou Zhu, Weijie Su, Lewei Lu, Bin Li, Xiaogang Wang, Jifeng Dai.
++ Deformable DETR: Deformable Transformers for End-to-End Object Detection.  
+Xizhou Zhu, Weijie Su, Lewei Lu, Bin Li, Xiaogang Wang, Jifeng Dai.  
 [[paper](https://arxiv.org/pdf/2010.04159.pdf)]  [[code](https://github.com/fundamentalvision/Deformable-DETR)]
 
 +  Adaptive Image Transformer for One-Shot Object Detection
