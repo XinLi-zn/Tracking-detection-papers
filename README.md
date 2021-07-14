@@ -181,6 +181,9 @@ Shoudong Han, Piao Huang, Hongwei Wang, En Yu, Donghaisheng Liu, Xiaofeng Pan, J
 Paul Voigtlaender, Lishu Luo, Chun Yuan, Yong Jiang, Bastian Leibe.  
 [[paper](https://arxiv.org/pdf/2011.01142.pdf)] [[project](https://www.vision.rwth-aachen.de/page/taovos)]
 -->
++ **VisDrone**: "Vision Meets Drones: Past, Present and Future". arXiv 2020.  
+Pengfei Zhu, Longyin Wen, Dawei Du, Xiao Bian, Qinghua Hu, Haibin Ling   
+[[paper](https://arxiv.org/abs/2001.06303)] [[project](http://aiskyeye.com/)] 
 
 + TAO: A Large-Scale Benchmark for Tracking Any Object. (ECCV 2020)    
 Achal Dave, Tarasha Khurana, Pavel Tokmakov, Cordelia Schmid, Deva Ramanan.  
