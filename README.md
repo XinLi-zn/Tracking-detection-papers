@@ -58,7 +58,7 @@ Chanho Kim, Li Fuxin, Mazen Alotaibi, James M. Rehg.
 
 + DyGLIP: A Dynamic Graph Model With Link Prediction for Accurate Multi-Camera Multiple Object Tracking. (CVPR 2021)  
 Kha Gia Quach, Pha Nguyen, Huu Le, Thanh-Dat Truong, Chi Nhan Duong, Minh-Triet Tran, Khoa Luu.  
-[[paper]https://arxiv.org/pdf/2106.06856.pdf)][[code](https://github.com/uark-cviu/DyGLIP)] 
+[[paper](https://arxiv.org/pdf/2106.06856.pdf)] [[code](https://github.com/uark-cviu/DyGLIP)] 
 
 + GMOT-40: A Benchmark for Generic Multiple Object Tracking. (CVPR 2021)  
 Hexin Bai, Wensheng Cheng, Peng Chu, Juehuan Liu, Kai Zhang, Haibin Ling.  
