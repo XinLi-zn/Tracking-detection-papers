@@ -3,8 +3,8 @@
 # Detection Papers
 
 ## Reviews
-[[综述：目标检测二十年（2001-2021）](https://mp.weixin.qq.com/s/cWCwcTA01oBy0BM3qRHb4Q)]
-
+[[综述：目标检测二十年（2001-2021）](https://mp.weixin.qq.com/s/cWCwcTA01oBy0BM3qRHb4Q)]  
+[[Ranking list on COCO test-dev](https://paperswithcode.com/sota/object-detection-on-coco)]
 
 ## Unclassified
 ### ArXiv 2021   
@@ -15,6 +15,14 @@ Yueming Zhang, Xiaolin Song, Bing Bai, Tengfei Xing, Chao Liu, Xin Gao, Zhihui W
 + Towards Total Recall in Industrial Anomaly Detection 
 Karsten Roth, Latha Pemula, Joaquin Zepeda, Bernhard Schölkopf, Thomas Brox, Peter Gehler   
 [[paper](https://arxiv.org/pdf/2106.08265.pdf)]
+
++ YOLOX: Exceeding YOLO Series in 2021  
+Zheng Ge, Songtao Liu, Feng Wang, Zeming Li, Jian Sun   
+[[paper](https://arxiv.org/pdf/2107.08430.pdf)] [[code](https://github.com/Megvii-BaseDetection/YOLOX)] 
+
++ CBNetV2: A Composite Backbone Network Architecture for Object Detection  
+Tingting Liang, Xiaojie Chu, Yudong Liu, Yongtao Wang, Zhi Tang, Wei Chu, Jingdong Chen, Haibin Ling  
+[[paper](https://arxiv.org/pdf/2107.00420.pdf)] [[code]( https://github.com/VDIGPKU/CBNetV2)]  
 
 ### CVPR 2021   
 + RPN Prototype Alignment for Domain Adaptive Object Detector  
