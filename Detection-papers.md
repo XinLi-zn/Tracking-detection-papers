@@ -12,9 +12,12 @@
 Yueming Zhang, Xiaolin Song, Bing Bai, Tengfei Xing, Chao Liu, Xin Gao, Zhihui Wang, Yawei Wen, Haojin Liao, Guoshan Zhang, Pengfei Xu  
 [[paper](https://arxiv.org/pdf/2106.08713.pdf)]
 
-+ Towards Total Recall in Industrial Anomaly Detection 
-Karsten Roth, Latha Pemula, Joaquin Zepeda, Bernhard Schölkopf, Thomas Brox, Peter Gehler   
++ Towards Total Recall in Industrial Anomaly Detection  
 [[paper](https://arxiv.org/pdf/2106.08265.pdf)]
+
++ MDETR - Modulated Detection for End-to-End Multi-Modal Understanding    
+Zheng Ge, Songtao Liu, Feng Wang, Zeming Li, Jian Sun   
+[[paper](https://arxiv.org/abs/2104.12763)] [[code](https://github.com/ashkamath/mdetr)] [[ruanwen](https://mp.weixin.qq.com/s/FYKkRVrmCajlzfxIABVEOg)] 
 
 + YOLOX: Exceeding YOLO Series in 2021  
 Zheng Ge, Songtao Liu, Feng Wang, Zeming Li, Jian Sun   
