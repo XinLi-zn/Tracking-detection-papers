@@ -175,6 +175,57 @@ Peize Sun, Jinkun Cao, Yi Jiang, Rufeng Zhang, Enze Xie, Zehuan Yuan, Changhu Wa
 Shoudong Han, Piao Huang, Hongwei Wang, En Yu, Donghaisheng Liu, Xiaofeng Pan, Jun Zhao.  
 [[paper](https://arxiv.org/ftp/arxiv/papers/2009/2009.04794.pdf)]  
 
+
+## CVPR 2018
+
++ Towards Dense Object Tracking in a 2D Honeybee Hive.  
+Katarzyna Bozek, Laetitia Hebert, Alexander S. Mikheyev, Greg J. Stephens  
+[[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Bozek_Towards_Dense_Object_CVPR_2018_paper.pdf] [[code]()]
+
++ Rolling Shutter and Radial Distortion Are Features for High Frame Rate Multi-Camera Tracking.  
+Akash Bapat, True Price, Jan-Michael Frahm  
+[[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Bapat_Rolling_Shutter_and_CVPR_2018_paper.pdf] [[code]()]
+
++ Fusing Crowd Density Maps and Visual Object Trackers for People Tracking in Crowd Scenes.  
+Weihong Ren, Di Kang, Yandong Tang, Antoni B. Chan  
+[[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Ren_Fusing_Crowd_Density_CVPR_2018_paper.pdf] [[code]()]
+
++ Features for Multi-Target Multi-Camera Tracking and Re-Identification.  
+Ergys Ristani, Carlo Tomasi  
+[[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Ristani_Features_for_Multi-Target_CVPR_2018_paper.pdf] [[code]()]
+
++ Tracking Multiple Objects Outside the Line of Sight Using Speckle Imaging.  
+Brandon M. Smith, Matthew O'Toole, Mohit Gupta  
+[[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Smith_Tracking_Multiple_Objects_CVPR_2018_paper.pdf] [[code]()]
+
+## ICCV 2017
+
++ Tracking the Untrackable: Learning to Track Multiple Cues With Long-Term Dependencies.  
+Amir Sadeghian, Alexandre Alahi, Silvio Savarese  
+[[paper](https://openaccess.thecvf.com/content_ICCV_2017/papers/Sadeghian_Tracking_the_Untrackable_ICCV_2017_paper.pdf] [[code]()] 
+
++ Non-Markovian Globally Consistent Multi-Object Tracking.  
+Andrii Maksai, Xinchao Wang, Francois Fleuret, Pascal Fua  
+[[paper](https://openaccess.thecvf.com/content_ICCV_2017/papers/Maksai_Non-Markovian_Globally_Consistent_ICCV_2017_paper.pdf] [[code]()] 
+
++ Online Multi-Object Tracking Using CNN-Based Single Object Tracker With Spatial-Temporal Attention Mechanism.  
+Qi Chu, Wanli Ouyang, Hongsheng Li, Xiaogang Wang, Bin Liu, Nenghai Yu  
+[[paper](https://openaccess.thecvf.com/content_ICCV_2017/papers/Chu_Online_Multi-Object_Tracking_ICCV_2017_paper.pdf] [[code]()] 
+
+## CVPR 2017
+
++ Multiple People Tracking by Lifted Multicut and Person Re-Identification.  
+Siyu Tang, Mykhaylo Andriluka, Bjoern Andres, Bernt Schiele  
+[[paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Tang_Multiple_People_Tracking_CVPR_2017_paper.pdf] [[code](http://mpi-inf.mpg.de/multicut_tracking)]  
+
++ Multi-Object Tracking With Quadruplet Convolutional Neural Networks.  
+Jeany Son, Mooyeol Baek, Minsu Cho, Bohyung Han  
+[[paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Son_Multi-Object_Tracking_With_CVPR_2017_paper.pdf] [[code]()]  
+
++ Deep Network Flow for Multi-Object Tracking.  
+Samuel Schulter, Paul Vernaza, Wongun Choi, Manmohan Chandraker  
+[[paper](https://arxiv.org/abs/1706.08482] [[code]()]  
+
 ## Datasets
 
 <!-- + Reducing the Annotation Effort for Video Object Segmentation Datasets. (WACV 2021)  
