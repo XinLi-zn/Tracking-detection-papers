@@ -137,6 +137,7 @@ ShiJie Sun, Naveed Akhtar, XiangYu Song, HuanSheng Song, Ajmal Mian, Mubarak Sha
 [[paper](https://arxiv.org/pdf/2008.08826.pdf)]  
 
 ## CVPR 2020
+
 + Learning a Neural Solver for Multiple Object Tracking. (CVPR 2020)  
 Guillem Brasó, Laura Leal-Taixé.  
 [[paper](https://arxiv.org/pdf/1912.07515.pdf)]  [[code](https://bit.ly/motsolv)] 
@@ -149,6 +150,17 @@ Junbo Yin, Wenguan Wang, Qinghao Meng, Ruigang Yang, Jianbing Shen.
 Zhichao Lu, Vivek Rathod, Ronny Votel, Jonathan Huang.  
 [[paper](https://arxiv.org/pdf/2003.13870.pdf)] 
 
++ GNN3DMOT: Graph Neural Network for 3D Multi-Object Tracking With 2D-3D Multi-Feature Learning  
+Xinshuo Weng, Yongxin Wang, Yunze Man, Kris M. Kitani  
+[[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Weng_GNN3DMOT_Graph_Neural_Network_for_3D_Multi-Object_Tracking_With_2D-3D_CVPR_2020_paper.pdf)] 
+
++ Learning Multi-Object Tracking and Segmentation From Automatic Annotations  
+Lorenzo Porzi, Markus Hofinger, Idoia Ruiz, Joan Serrat, Samuel Rota Bulo, Peter Kontschieder  
+[[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Porzi_Learning_Multi-Object_Tracking_and_Segmentation_From_Automatic_Annotations_CVPR_2020_paper.pdf)] 
+
++ SQE: a Self Quality Evaluation Metric for Parameters Optimization in Multi-Object Tracking  
+Yanru Huang, Feiyu Zhu, Zheni Zeng, Xi Qiu, Yuan Shen, Jianan Wu  
+[[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Huang_SQE_a_Self_Quality_Evaluation_Metric_for_Parameters_Optimization_in_CVPR_2020_paper.pdf)]
 
 ## AAAI 2020
 
@@ -174,6 +186,58 @@ Peize Sun, Jinkun Cao, Yi Jiang, Rufeng Zhang, Enze Xie, Zehuan Yuan, Changhu Wa
 + MAT: Motion-Aware Multi-Object Tracking. (arXiv 2020-9)   
 Shoudong Han, Piao Huang, Hongwei Wang, En Yu, Donghaisheng Liu, Xiaofeng Pan, Jun Zhao.  
 [[paper](https://arxiv.org/ftp/arxiv/papers/2009/2009.04794.pdf)]  
+
+
+## ICCV 2019
+
++ Tracking Without Bells and Whistles  
+Philipp Bergmann, Tim Meinhardt, Laura Leal-Taixe  
+[[paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Bergmann_Tracking_Without_Bells_and_Whistles_ICCV_2019_paper.pdf] [[code]()]
+
++ Robust Multi-Modality Multi-Object Tracking  
+Wenwei Zhang, Hui Zhou, Shuyang Sun, Zhe Wang, Jianping Shi, Chen Change Loy  
+[[paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Zhang_Robust_Multi-Modality_Multi-Object_Tracking_ICCV_2019_paper.pdf] [[code]()]
+
++ Spatial-Temporal Relation Networks for Multi-Object Tracking  
+Jiarui Xu, Yue Cao, Zheng Zhang, Han Hu  
+[[paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Xu_Spatial-Temporal_Relation_Networks_for_Multi-Object_Tracking_ICCV_2019_paper.pdf] [[code]()]
+
++ Bridging the Gap Between Detection and Tracking: A Unified Approach  
+Lianghua Huang, Xin Zhao, Kaiqi Huang  
+[[paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Huang_Bridging_the_Gap_Between_Detection_and_Tracking_A_Unified_Approach_ICCV_2019_paper.pdf] [[code]()]
+
++ Physical Adversarial Textures That Fool Visual Object Tracking  
+Rey Reza Wiyatno, Anqi Xu  
+[[paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Wiyatno_Physical_Adversarial_Textures_That_Fool_Visual_Object_Tracking_ICCV_2019_paper.pdf] [[code]()]
+
++ FAMNet: Joint Learning of Feature, Affinity and Multi-Dimensional Assignment for Online Multiple Object Tracking  
+Peng Chu, Haibin Ling  
+[[paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Chu_FAMNet_Joint_Learning_of_Feature_Affinity_and_Multi-Dimensional_Assignment_for_ICCV_2019_paper.pdf] [[code]()]
+
+
+
+## CVPR 2019
+
++ Tracking by Animation: Unsupervised Learning of Multi-Object Attentive Trackers.  
+Zhen He, Jian Li, Daxue Liu, Hangen He, David Barber  
+[[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/He_Tracking_by_Animation_Unsupervised_Learning_of_Multi-Object_Attentive_Trackers_CVPR_2019_paper.pdf] [[code]()]
+
++ Eliminating Exposure Bias and Metric Mismatch in Multiple Object Tracking.  
+Andrii Maksai, Pascal Fua  
+[[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Maksai_Eliminating_Exposure_Bias_and_Metric_Mismatch_in_Multiple_Object_Tracking_CVPR_2019_paper.pdf] [[code]()]
+
++ MOTS: Multi-Object Tracking and Segmentation.  
+Paul Voigtlaender, Michael Krause, Aljosa Osep, Jonathon Luiten, Berin Balachandar Gnana Sekar, Andreas Geiger, Bastian Leibe  
+[[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Voigtlaender_MOTS_Multi-Object_Tracking_and_Segmentation_CVPR_2019_paper.pdf] [[code]()]
+
++ Cross-Classification Clustering: An Efficient Multi-Object Tracking Technique for 3-D Instance Segmentation in Connectomics.  
+Yaron Meirovitch, Lu Mi, Hayk Saribekyan, Alexander Matveev, David Rolnick, Nir Shavit  
+[[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Meirovitch_Cross-Classification_Clustering_An_Efficient_Multi-Object_Tracking_Technique_for_3-D_Instance_CVPR_2019_paper.pdf] [[code]()]
+
++ CityFlow: A City-Scale Benchmark for Multi-Target Multi-Camera Vehicle Tracking and Re-Identification  
+Zheng Tang, Milind Naphade, Ming-Yu Liu, Xiaodong Yang, Stan Birchfield, Shuo Wang, Ratnesh Kumar, David Anastasiu, Jenq-Neng Hwang  
+[[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Tang_CityFlow_A_City-Scale_Benchmark_for_Multi-Target_Multi-Camera_Vehicle_Tracking_and_CVPR_2019_paper.pdf] [[code]()]
+
 
 
 ## CVPR 2018
