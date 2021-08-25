@@ -105,15 +105,25 @@ Adam W. Harley, Yiming Zuo, Jing Wen, Ayush Mangal, Shubhankar Potdar, Ritwick C
 [[paper](https://arxiv.org/pdf/2104.03424.pdf)] 
 
 
-+ Improving Multiple Pedestrian Tracking by Track Management and Occlusion Handling. (CVPR 2021)
++ Improving Multiple Pedestrian Tracking by Track Management and Occlusion Handling. (CVPR 2021)  
+Daniel Stadler, Jurgen Beyerer  
+[[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Stadler_Improving_Multiple_Pedestrian_Tracking_by_Track_Management_and_Occlusion_Handling_CVPR_2021_paper.pdf)] 
 
-+ Improving Multiple Object Tracking With Single Object Tracking. (CVPR 2021)
++ Improving Multiple Object Tracking With Single Object Tracking  
+Linyu Zheng, Ming Tang, Yingying Chen, Guibo Zhu, Jinqiao Wang, Hanqing Lu  
+[[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Zheng_Improving_Multiple_Object_Tracking_With_Single_Object_Tracking_CVPR_2021_paper.pdf)] 
 
-+ Polygonal Point Set Tracking. (CVPR 2021)  
++ Polygonal Point Set Tracking  
+Gunhee Nam, Miran Heo, Seoung Wug Oh, Joon-Young Lee, Seon Joo Kim    
+[[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Nam_Polygonal_Point_Set_Tracking_CVPR_2021_paper.pdf)] 
 
-+ Seeing Behind Objects for 3D Multi-Object Tracking in RGB-D Sequences. (CVPR 2021)  
++ Seeing Behind Objects for 3D Multi-Object Tracking in RGB-D Sequences  
+Norman Muller, Yu-Shiang Wong, Niloy J. Mitra, Angela Dai, Matthias Niessner  
+[[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Muller_Seeing_Behind_Objects_for_3D_Multi-Object_Tracking_in_RGB-D_Sequences_CVPR_2021_paper.pdf)] 
 
-+ Detection, Tracking, and Counting Meets Drones in Crowds: A Benchmark. (CVPR 2021)
++ Detection, Tracking, and Counting Meets Drones in Crowds: A Benchmark  
+Longyin Wen, Dawei Du, Pengfei Zhu, Qinghua Hu, Qilong Wang, Liefeng Bo, Siwei Lyu  
+[[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Wen_Detection_Tracking_and_Counting_Meets_Drones_in_Crowds_A_Benchmark_CVPR_2021_paper.pdf)] 
 
 
 
