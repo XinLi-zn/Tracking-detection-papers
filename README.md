@@ -50,7 +50,7 @@ Anwesa Choudhuri, Girish Chowdhary, Alexander G. Schwing
 
 + A General Recurrent Tracking Framework Without Real Data. (ICCV 2021)  
 Shuai Wang, Hao Sheng, Yang Zhang, Yubin Wu, Zhang Xiong
-[[paper(https://openaccess.thecvf.com/content/ICCV2021/papers/Wang_A_General_Recurrent_Tracking_Framework_Without_Real_Data_ICCV_2021_paper.pdf)]
+[[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Wang_A_General_Recurrent_Tracking_Framework_Without_Real_Data_ICCV_2021_paper.pdf)]
 
 + Exploring Simple 3D Multi-Object Tracking for Autonomous Driving. (ICCV 2021)  
 Chenxu Luo, Xiaodong Yang, Alan Yuille
@@ -58,7 +58,7 @@ Chenxu Luo, Xiaodong Yang, Alan Yuille
 
 + Track Without Appearance: Learn Box and Tracklet Embedding With Local and Global Motion Patterns for Vehicle Tracking. (ICCV 2021) 
 Gaoang Wang, Renshu Gu, Zuozhu Liu, Weijie Hu, Mingli Song, Jenq-Neng Hwang
-[[https://openaccess.thecvf.com/content/ICCV2021/papers/Wang_Track_Without_Appearance_Learn_Box_and_Tracklet_Embedding_With_Local_ICCV_2021_paper.pdf)]  [[code](https://github.com/GaoangW/LGMTracker)]
+[[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Wang_Track_Without_Appearance_Learn_Box_and_Tracklet_Embedding_With_Local_ICCV_2021_paper.pdf)]  [[code](https://github.com/GaoangW/LGMTracker)]
 
 + Continuous Copy-Paste for One-Stage Multi-Object Tracking and Segmentation. (ICCV 2021) 
 Zhenbo Xu, Ajin Meng, Zhenbo Shi, Wei Yang, Zhi Chen, Liusheng Huang
@@ -66,7 +66,7 @@ Zhenbo Xu, Ajin Meng, Zhenbo Shi, Wei Yang, Zhi Chen, Liusheng Huang
 
 + MOTSynth: How Can Synthetic Data Help Pedestrian Detection and Tracking?. (ICCV 2021) 
 Zhenbo Xu, Ajin Meng, Zhenbo Shi, Wei Yang, Zhi Chen, Liusheng Huang
-[[https://openaccess.thecvf.com/content/ICCV2021/papers/Fabbri_MOTSynth_How_Can_Synthetic_Data_Help_Pedestrian_Detection_and_Tracking_ICCV_2021_paper.pdf)]
+[[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Fabbri_MOTSynth_How_Can_Synthetic_Data_Help_Pedestrian_Detection_and_Tracking_ICCV_2021_paper.pdf)]
 
 
 ## CVPR 2021
