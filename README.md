@@ -47,12 +47,12 @@ Pavel Tokmakov, Jie Li, Wolfram Burgard, Adrien Gaidon.
 
 ## ICCV 2021
 
-+ Learning to Track with Object Permanence  (ICCV 2021)
-Matteo Fabbri, Guillem Brasó, Gianluca Maugeri, Orcun Cetintas, Riccardo Gasparini, Aljoša Ošep, Simone Calderara, Laura Leal-Taixé, Rita Cucchiara  
++ Learning to Track with Object Permanence  (ICCV 2021)  
+Pavel Tokmakov, Jie Li, Wolfram Burgard, Adrien Gaidon    
 [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Tokmakov_Learning_To_Track_With_Object_Permanence_ICCV_2021_paper.pdf)]  
 
 
-+ MOTSynth: How Can Synthetic Data Help Pedestrian Detection and Tracking?  (ICCV 2021)
++ MOTSynth: How Can Synthetic Data Help Pedestrian Detection and Tracking?  (ICCV 2021)  
 Matteo Fabbri, Guillem Brasó, Gianluca Maugeri, Orcun Cetintas, Riccardo Gasparini, Aljoša Ošep, Simone Calderara, Laura Leal-Taixé, Rita Cucchiara  
 [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Fabbri_MOTSynth_How_Can_Synthetic_Data_Help_Pedestrian_Detection_and_Tracking_ICCV_2021_paper.pdf)]
 
