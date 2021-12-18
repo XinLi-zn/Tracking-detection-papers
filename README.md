@@ -52,10 +52,6 @@ Pavel Tokmakov, Jie Li, Wolfram Burgard, Adrien Gaidon
 [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Tokmakov_Learning_To_Track_With_Object_Permanence_ICCV_2021_paper.pdf)]  
 
 
-+ MOTSynth: How Can Synthetic Data Help Pedestrian Detection and Tracking?  (ICCV 2021)  
-Matteo Fabbri, Guillem Brasó, Gianluca Maugeri, Orcun Cetintas, Riccardo Gasparini, Aljoša Ošep, Simone Calderara, Laura Leal-Taixé, Rita Cucchiara   
-[[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Fabbri_MOTSynth_How_Can_Synthetic_Data_Help_Pedestrian_Detection_and_Tracking_ICCV_2021_paper.pdf)]
-
 + Assignment-Space-Based Multi-Object Tracking and Segmentation. (ICCV 2021)  
 Anwesa Choudhuri, Girish Chowdhary, Alexander G. Schwing  
 [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Choudhuri_Assignment-Space-Based_Multi-Object_Tracking_and_Segmentation_ICCV_2021_paper.pdf)]  
