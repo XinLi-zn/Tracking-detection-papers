@@ -42,10 +42,19 @@ Yihong Xu, Yutong Ban, Guillaume Delorme, Chuang Gan, Daniela Rus, Xavier Alamed
 
 ## NeurIPS 2021  
 + Prototypical Cross-Attention Networks for Multiple Object Tracking and Segmentation. (NeurIPS 2021)   
-Lei Ke, Xia Li, Martin Danelljan, Yu-Wing Tai, Chi-Keung Tang, Fisher Yu.    
+Pavel Tokmakov, Jie Li, Wolfram Burgard, Adrien Gaidon.    
 [[paper](https://arxiv.org/pdf/2106.11958.pdf)]  [[code](https://github.com/JudasDie/SOTS)] 
 
 ## ICCV 2021
+
++ Learning to Track with Object Permanence  (ICCV 2021)
+Matteo Fabbri, Guillem Brasó, Gianluca Maugeri, Orcun Cetintas, Riccardo Gasparini, Aljoša Ošep, Simone Calderara, Laura Leal-Taixé, Rita Cucchiara  
+[[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Tokmakov_Learning_To_Track_With_Object_Permanence_ICCV_2021_paper.pdf)]  
+
+
++ MOTSynth: How Can Synthetic Data Help Pedestrian Detection and Tracking?  (ICCV 2021)
+Matteo Fabbri, Guillem Brasó, Gianluca Maugeri, Orcun Cetintas, Riccardo Gasparini, Aljoša Ošep, Simone Calderara, Laura Leal-Taixé, Rita Cucchiara  
+[[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Fabbri_MOTSynth_How_Can_Synthetic_Data_Help_Pedestrian_Detection_and_Tracking_ICCV_2021_paper.pdf)]
 
 + Assignment-Space-Based Multi-Object Tracking and Segmentation. (ICCV 2021)  
 Anwesa Choudhuri, Girish Chowdhary, Alexander G. Schwing
@@ -59,15 +68,15 @@ Shuai Wang, Hao Sheng, Yang Zhang, Yubin Wu, Zhang Xiong
 Chenxu Luo, Xiaodong Yang, Alan Yuille
 [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Luo_Exploring_Simple_3D_Multi-Object_Tracking_for_Autonomous_Driving_ICCV_2021_paper.pdf)]  [[code](https://github.com/qcraftai/simtrack)]
 
-+ Track Without Appearance: Learn Box and Tracklet Embedding With Local and Global Motion Patterns for Vehicle Tracking. (ICCV 2021) 
++ Track Without Appearance: Learn Box and Tracklet Embedding With Local and Global Motion Patterns for Vehicle Tracking. (ICCV 2021)  
 Gaoang Wang, Renshu Gu, Zuozhu Liu, Weijie Hu, Mingli Song, Jenq-Neng Hwang
 [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Wang_Track_Without_Appearance_Learn_Box_and_Tracklet_Embedding_With_Local_ICCV_2021_paper.pdf)]  [[code](https://github.com/GaoangW/LGMTracker)]
 
-+ Continuous Copy-Paste for One-Stage Multi-Object Tracking and Segmentation. (ICCV 2021) 
++ Continuous Copy-Paste for One-Stage Multi-Object Tracking and Segmentation. (ICCV 2021)  
 Zhenbo Xu, Ajin Meng, Zhenbo Shi, Wei Yang, Zhi Chen, Liusheng Huang
 [[Matteo Fabbri, Guillem Brasó, Gianluca Maugeri, Orcun Cetintas, Riccardo Gasparini, Aljoša Ošep, Simone Calderara, Laura Leal-Taixé, Rita Cucchiara)] [[code](https://github.com/detectRecog/CCP)]
 
-+ MOTSynth: How Can Synthetic Data Help Pedestrian Detection and Tracking?. (ICCV 2021) 
++ MOTSynth: How Can Synthetic Data Help Pedestrian Detection and Tracking?. (ICCV 2021)  
 Zhenbo Xu, Ajin Meng, Zhenbo Shi, Wei Yang, Zhi Chen, Liusheng Huang
 [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Fabbri_MOTSynth_How_Can_Synthetic_Data_Help_Pedestrian_Detection_and_Tracking_ICCV_2021_paper.pdf)]
 
