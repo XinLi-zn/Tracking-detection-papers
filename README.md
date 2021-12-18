@@ -45,6 +45,15 @@ Yihong Xu, Yutong Ban, Guillaume Delorme, Chuang Gan, Daniela Rus, Xavier Alamed
 Pavel Tokmakov, Jie Li, Wolfram Burgard, Adrien Gaidon.    
 [[paper](https://arxiv.org/pdf/2106.11958.pdf)]  [[code](https://github.com/JudasDie/SOTS)] 
 
++ Self-Supervised Multi-Object Tracking with Cross-input Consistency. (NeurIPS 2021)   
+Favyen Bastani, Songtao He, Samuel Madden.    
+[[paper](https://proceedings.neurips.cc/paper/2021/file/71e09b16e21f7b6919bbfc43f6a5b2f0-Paper.pdf)]  [[code]()] 
+
++ Do Different Tracking Tasks Require Different Appearance Models? (NeurIPS 2021)   
+Zhongdao Wang, Hengshuang Zhao, Ya-Li Li, Shengjin Wang, Philip Torr, Luca Bertinetto.    
+[[paper](https://proceedings.neurips.cc/paper/2021/file/06997f04a7db92466a2baa6ebc8b872d-Paper.pdf)]  [[code]()] 
+
+
 ## ICCV 2021
 
 + Learning to Track with Object Permanence  (ICCV 2021)  
