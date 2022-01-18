@@ -48,6 +48,14 @@ Xiyang Dai, Yinpeng Chen, Bin Xiao, Dongdong Chen, Mengchen Liu, Lu Yuan, Lei Zh
 + RankDetNet: Delving Into Ranking Constraints for Object Detection.
 
 ## Semi-Supervised, UN-supervised, and self-supervised Object Detection
+
+### ArXiv 2022  
+
++ Sparsely Annotated Object Detection: A Region-based Semi-supervised Approach  
+Sai Saketh Rambhatla, Saksham Suri, Rama Chellappa, Abhinav Shrivastava  
+[[paper](https://arxiv.org/pdf/2201.04620)] 
+
+
 ### ArXiv 2021
 
 + CutPaste: Self-Supervised Learning for Anomaly Detection and Localization  
