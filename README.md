@@ -1,5 +1,11 @@
 # MOT Papers
 
+## arXiv 2022
+
++ SimpleTrack: Rethinking and Improving the JDE Approach for Multi-Object Tracking (arXiv 2022-03)  
+Jiaxin Li, Yan Ding, Hualiang Wei.  
+[[paper](http://de.arxiv.org/pdf/2203.03985.pdf)]   
+
 ## arXiv 2021
 
 
