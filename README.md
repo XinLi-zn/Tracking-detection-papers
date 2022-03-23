@@ -68,7 +68,7 @@ Zhongdao Wang, Hengshuang Zhao, Ya-Li Li, Shengjin Wang, Philip Torr, Luca Berti
 
 + Learning to Track with Object Permanence  (ICCV 2021)  
 Pavel Tokmakov, Jie Li, Wolfram Burgard, Adrien Gaidon    
-[[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Tokmakov_Learning_To_Track_With_Object_Permanence_ICCV_2021_paper.pdf)]  
+[[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Tokmakov_Learning_To_Track_With_Object_Permanence_ICCV_2021_paper.pdf)]  [[code](https://github.com/TRI-ML/permatrack)]
 
 
 + Assignment-Space-Based Multi-Object Tracking and Segmentation. (ICCV 2021)  
@@ -89,7 +89,7 @@ Gaoang Wang, Renshu Gu, Zuozhu Liu, Weijie Hu, Mingli Song, Jenq-Neng Hwang
 
 + Continuous Copy-Paste for One-Stage Multi-Object Tracking and Segmentation. (ICCV 2021)  
 Zhenbo Xu, Ajin Meng, Zhenbo Shi, Wei Yang, Zhi Chen, Liusheng Huang  
-[[Matteo Fabbri, Guillem Brasó, Gianluca Maugeri, Orcun Cetintas, Riccardo Gasparini, Aljoša Ošep, Simone Calderara, Laura Leal-Taixé, Rita Cucchiara)] [[code](https://github.com/detectRecog/CCP)]
+[[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Xu_Continuous_Copy-Paste_for_One-Stage_Multi-Object_Tracking_and_Segmentation_ICCV_2021_paper.pdf)] [[code](https://github.com/detectRecog/CCP)]
 
 + MOTSynth: How Can Synthetic Data Help Pedestrian Detection and Tracking?. (ICCV 2021)  
 Zhenbo Xu, Ajin Meng, Zhenbo Shi, Wei Yang, Zhi Chen, Liusheng Huang  
