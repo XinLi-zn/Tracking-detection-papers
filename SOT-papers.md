@@ -1,3 +1,17 @@
+
+## arXiv 2022
++ Backbone is All Your Need: A Simplified Architecture for Visual Object Tracking. arXiv 2022-03
+Boyu Chen, Peixia Li, Lei Bai, Lei Qiao, Qiuhong Shen, Bo Li, Weihao Gan, Wei Wu, Wanli Ouyang    
+[[paper](https://arxiv.org/pdf/2203.05328)] 
+
+## CVPR 2022
+
+
++ MixFormer: End-to-End Tracking with Iterative Mixed Attention. CVPR 2022  
+Yutao Cui, Cheng Jiang, Limin Wang, Gangshan    
+[[paper](https://arxiv.org/pdf/2203.11082.pdf)] [[code](https://github.com/MCG-NJU/MixFormer)]  
+
+
 ## arXiv 2021
 
 + Efficient Visual Tracking with Exemplar Transformers. arXiv 2021-12  
