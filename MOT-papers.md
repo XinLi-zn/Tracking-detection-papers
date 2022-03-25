@@ -2,23 +2,33 @@
 
 ## arXiv 2022
 
+
++ Adiabatic Quantum Computing for Multi Object Tracking (arXiv 2022-03)  
+Jan-Nico Zaech, Alexander Liniger, Martin Danelljan, Dengxin Dai, Luc Van Gool   
+[[paper](https://arxiv.org/abs/2202.08837)]   
+
+
 + SimpleTrack: Rethinking and Improving the JDE Approach for Multi-Object Tracking (arXiv 2022-03)  
-Jiaxin Li, Yan Ding, Hualiang Wei.  
+Jiaxin Li, Yan Ding, Hualiang Wei  
 [[paper](http://de.arxiv.org/pdf/2203.03985.pdf)]   
 
 ## arXiv 2021
 
 
 + ByteTrack: Multi-Object Tracking by Associating Every Detection Box (arXiv 2021-10)  
-Yifu Zhang, Peize Sun, Yi Jiang, Dongdong Yu, Zehuan Yuan, Ping Luo, Wenyu Liu, Xinggang Wang.  
+Yifu Zhang, Peize Sun, Yi Jiang, Dongdong Yu, Zehuan Yuan, Ping Luo, Wenyu Liu, Xinggang Wang  
 [[paper](http://de.arxiv.org/pdf/2110.06864.pdf)]  [[code](https://github.com/ifzhang/ByteTrack)]    
 
 + One More Check: Making "Fake Background" Be Tracked Again. (arXiv 2021-4)  
-Chao Liang, Zhipeng Zhang, Xue Zhou, Bing Li, Yi Lu, Weiming Hu.  
+Chao Liang, Zhipeng Zhang, Xue Zhou, Bing Li, Yi Lu, Weiming Hu  
 [[paper](https://arxiv.org/pdf/2104.09441.pdf)]  [[code](https://github.com/JudasDie/SOTS)]  
 
++ Opening up Open-World Tracking. (arXiv 2021-4)  
+Yang Liu, Idil Esen Zulfikar, Jonathon Luiten, Achal Dave, Aljoša Ošep, Deva Ramanan, Bastian Leibe, Laura Leal-Taixé    
+[[paper](https://arxiv.org/abs/2104.11221)]  
+
 + DEFT: Detection Embeddings for Tracking. (arXiv 2021-2)  
-Mohamed Chaabane, Peter Zhang, J. Ross Beveridge, Stephen O'Hara.  
+Mohamed Chaabane, Peter Zhang, J. Ross Beveridge, Stephen O'Hara  
 [[paper](https://arxiv.org/pdf/2102.02267.pdf)] [[code](https://github.com/MedChaabane/DEFT)] 
 
 + MOTR: End-to-End Multiple-Object Tracking with TRansformer. (arXiv 2021-5-7)  
