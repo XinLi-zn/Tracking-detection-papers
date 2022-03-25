@@ -21,6 +21,14 @@ Song Yan1, Jinyu Yang, Jani Kapyl¨ a¨, Feng Zheng, Ales Leonardis, Joni-Kristi
 Ziang Cao, Changhong Fu, Junjie Ye, Bowen Li, Yiming Li     
 [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Cao_HiFT_Hierarchical_Feature_Transformer_for_Aerial_Tracking_ICCV_2021_paper.pdf)] [[code](https://github.com/vision4robotics/HiFT)]  
 
++ High-Performance Discriminative Tracking with Transformers. ICCV 2021  
+Bin Yu1, Ming Tang, Linyu Zheng, Guibo Zhu, Jinqiao Wang, Hao Feng, Xuetao Feng, Hanqing Lu     
+[[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Yu_High-Performance_Discriminative_Tracking_With_Transformers_ICCV_2021_paper.pdf)] 
+
++ Learning Spatio-Temporal Transformer for Visual Tracking. ICCV 2021  
+Bin Yan, Houwen Peng, Jianlong Fu, Dong Wang, Huchuan Lu   
+[[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Yan_Learning_Spatio-Temporal_Transformer_for_Visual_Tracking_ICCV_2021_paper.pdf)] [[code](https://github.com/researchmm/Stark)]  
+
 + Learning Target Candidate Association to Keep Track of What Not to Track. ICCV 2021  
 Christoph Mayer, Martin Danelljan, Danda Pani Paudel, Luc Van Gool  
 [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Mayer_Learning_Target_Candidate_Association_To_Keep_Track_of_What_Not_ICCV_2021_paper.pdf)] [[code](https://github.com/visionml/pytracking)]  
@@ -41,6 +49,10 @@ Zhoutao Wang, Qian Xie, Yu-Kun Lai, Jing Wu, Kun Long, Jun Wang
 Jiqing Zhang1, Xin Yang, Yingkai Fu, Xiaopeng Wei, Baocai Yin1, Bo Dong      
 [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhang_Object_Tracking_by_Jointly_Exploiting_Frame_and_Event_Domain_ICCV_2021_paper.pdf)] 
 
++ R-SLAM: Optimizing Eye Tracking from Rolling Shutter Video of the Retina. ICCV 2021  
+Jay Shenoy, James Fong, Jeffrey Tan, Austin Roorda, Ren Ng     
+[[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Shenoy_R-SLAM_Optimizing_Eye_Tracking_From_Rolling_Shutter_Video_of_the_ICCV_2021_paper.pdf)] 
+
 + Saliency-Associated Object Tracking. ICCV 2021  
 Zikun Zhou, Wenjie Pei, Xin Li, Hongpeng Wang, Feng Zheng, Zhenyu He     
 [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhou_Saliency-Associated_Object_Tracking_ICCV_2021_paper.pdf)] [[code](https://github.com/ZikunZhou/SAOT)]  
@@ -52,5 +64,9 @@ Heng Fan, Halady Akhilesha Miththanthaya, Harshit, Siranjiv Ramana Rajan, Xiaoqi
 + Video Annotation for Visual Tracking via Selection and Refinement. ICCV 2021  
 Kenan Dai, Jie Zhao, Lijun Wang, Dong Wang, Jianhua Li, Huchuan Lu, Xuesheng Qian, Xiaoyun Yang  
 [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Dai_Video_Annotation_for_Visual_Tracking_via_Selection_and_Refinement_ICCV_2021_paper.pdf)] [[code](https://github.com/Daikenan/VASR)]  
+
++ You Don’t Only Look Once: Constructing Spatial-Temporal Memory for Integrated 3D Object Detection and Tracking. ICCV 2021  
+Jiaming Sun, Yiming Xie, Siyu Zhang, Linghao Chen, Guofeng Zhang, Hujun Bao, Xiaowei Zhou  
+[[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Sun_You_Dont_Only_Look_Once_Constructing_Spatial-Temporal_Memory_for_Integrated_ICCV_2021_paper.pdf)] [[code](https://zju3dv.github.io/UDOLO)]  
 
 
