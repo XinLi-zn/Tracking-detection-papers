@@ -6,6 +6,9 @@ Boyu Chen, Peixia Li, Lei Bai, Lei Qiao, Qiuhong Shen, Bo Li, Weihao Gan, Wei Wu
 
 ## CVPR 2022
 
++ Correlation-Aware Deep Tracking. CVPR 2022  
+Fei Xie, Chunyu Wang, Guangting Wang, Yue Cao, Wankou Yang, Wenjun Zeng    
+[[paper](https://arxiv.org/abs/2203.01666)] [[code]()]  
 
 + MixFormer: End-to-End Tracking with Iterative Mixed Attention. CVPR 2022  
 Yutao Cui, Cheng Jiang, Limin Wang, Gangshan    
