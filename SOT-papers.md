@@ -6,6 +6,10 @@ Boyu Chen, Peixia Li, Lei Bai, Lei Qiao, Qiuhong Shen, Bo Li, Weihao Gan, Wei Wu
 
 ## CVPR 2022
 
++ Beyond 3D Siamese Tracking: A Motion-Centric Paradigm for 3D Single Object Tracking in Point Clouds. CVPR 2022  
+Chaoda Zheng, Xu Yan, Haiming Zhang, Baoyuan Wang, Shenghui Cheng, Shuguang Cui, Zhen Li     
+[[paper](https://arxiv.org/pdf/2203.01730.pdf)] [[code](https://github.com/Ghostish/Open3DSOT)] 
+
 + Correlation-Aware Deep Tracking. CVPR 2022  
 Fei Xie, Chunyu Wang, Guangting Wang, Yue Cao, Wankou Yang, Wenjun Zeng    
 [[paper](https://arxiv.org/abs/2203.01666)] [[code]()]  
@@ -14,12 +18,19 @@ Fei Xie, Chunyu Wang, Guangting Wang, Yue Cao, Wankou Yang, Wenjun Zeng
 Yutao Cui, Cheng Jiang, Limin Wang, Gangshan    
 [[paper](https://arxiv.org/pdf/2203.11082.pdf)] [[code](https://github.com/MCG-NJU/MixFormer)]  
 
++ Transforming Model Prediction for Tracking. CVPR 2022  
+Christoph Mayer, Martin Danelljan, Goutam Bhat, Matthieu Paul, Danda Pani Paudel, Fisher Yu, Luc Van Gool       
+[[paper](https://arxiv.org/abs/2203.11192)] [[code](https://github.com/visionml/pytracking)] 
+
++ TCTrack: Temporal Contexts for Aerial Tracking. CVPR 2022  
+Ziang Cao, Ziyuan Huang, Liang Pan, Shiwei Zhang, Ziwei Liu, Changhong Fu     
+[[paper](https://arxiv.org/pdf/2203.01885.pdf)] [[code](https://github.com/vision4robotics/TCTrack)] 
 
 ## arXiv 2021
 
 + Efficient Visual Tracking with Exemplar Transformers. arXiv 2021-12  
 Philippe Blatter, Menelaos Kanakis, Martin Danelljan, Luc Van Gool  
-[[paper](https://arxiv.org/pdf/2112.09686.pdf)] [[code]()]  
+[[paper](https://arxiv.org/pdf/2112.09686.pdf)]   
 
 + SwinTrack: A Simple and Strong Baseline for Transformer Tracking. arXiv 2021-12  
 Liting Lin, Heng Fan, Yong Xu, Haibin Ling  
