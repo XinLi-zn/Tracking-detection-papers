@@ -12,8 +12,15 @@ Jan-Nico Zaech, Alexander Liniger, Martin Danelljan, Dengxin Dai, Luc Van Gool
 Jiaxin Li, Yan Ding, Hualiang Wei  
 [[paper](http://de.arxiv.org/pdf/2203.03985.pdf)]   
 
-## arXiv 2021
+## CVPR 2022
 
+
++ Global Tracking Transformers. CVPR 2022 
+Xingyi Zhou, Tianwei Yin, Vladlen Koltun, Phillip Krahenbuhl  
+[[paper](https://arxiv.org/pdf/2203.13250.pdf)] [[code](https://github.com/xingyizhou/GTR)]  
+
+
+## arXiv 2021
 
 + ByteTrack: Multi-Object Tracking by Associating Every Detection Box (arXiv 2021-10)  
 Yifu Zhang, Peize Sun, Yi Jiang, Dongdong Yu, Zehuan Yuan, Ping Luo, Wenyu Liu, Xinggang Wang  
