@@ -13,7 +13,9 @@ Jiaxin Li, Yan Ding, Hualiang Wei
 [[paper](http://de.arxiv.org/pdf/2203.03985.pdf)]   
 
 ## CVPR 2022
-
++ DanceTrack: Multi-Object Tracking in Uniform Appearance and Diverse Motion. CVPR 2022  
+Peize Sun, Jinkun Cao, Yi Jiang, Zehuan Yuan, Song Bai, Kris Kitani, Ping Luo   
+[[paper](https://arxiv.org/abs/2111.14690)] [[code](https://github.com/DanceTrack/DanceTrack)]
 
 + Global Tracking Transformers. CVPR 2022  
 Xingyi Zhou, Tianwei Yin, Vladlen Koltun, Phillip Krahenbuhl   
