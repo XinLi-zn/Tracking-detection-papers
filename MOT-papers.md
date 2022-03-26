@@ -15,8 +15,8 @@ Jiaxin Li, Yan Ding, Hualiang Wei
 ## CVPR 2022
 
 
-+ Global Tracking Transformers. CVPR 2022 
-Xingyi Zhou, Tianwei Yin, Vladlen Koltun, Phillip Krahenbuhl  
++ Global Tracking Transformers. CVPR 2022  
+Xingyi Zhou, Tianwei Yin, Vladlen Koltun, Phillip Krahenbuhl   
 [[paper](https://arxiv.org/pdf/2203.13250.pdf)] [[code](https://github.com/xingyizhou/GTR)]  
 
 
