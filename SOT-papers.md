@@ -6,6 +6,10 @@ Boyu Chen, Peixia Li, Lei Bai, Lei Qiao, Qiuhong Shen, Bo Li, Weihao Gan, Wei Wu
 
 ## CVPR 2022
 
++ Visible-Thermal UAV Tracking: A Large-Scale Benchmark and New Baseline. CVPR2022  
+Pengyu Zhang, Jie Zhao, Dong Wang, Huchuan Lu, Xiang Ruan  
+[paper]  [code]
+
 + Language as Queries for Referring Video Object Segmentation. CVPR2022  
 Jiannan Wu, Yi Jiang, Peize Sun, Zehuan Yuan, Ping Luo  
 [[paper](https://arxiv.org/abs/2201.00487)] [[code](https://github.com/wjn922/ReferFormer)] 
