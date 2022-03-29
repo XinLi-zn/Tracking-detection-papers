@@ -1,5 +1,4 @@
-
-  
+ 
 ## arXiv 2022
 + Backbone is All Your Need: A Simplified Architecture for Visual Object Tracking. arXiv 2022-03  
 Boyu Chen, Peixia Li, Lei Bai, Lei Qiao, Qiuhong Shen, Bo Li, Weihao Gan, Wei Wu, Wanli Ouyang    
@@ -9,17 +8,19 @@ Boyu Chen, Peixia Li, Lei Bai, Lei Qiao, Qiuhong Shen, Bo Li, Weihao Gan, Wei Wu
 
 + Language as Queries for Referring Video Object Segmentation. CVPR2022  
 Jiannan Wu, Yi Jiang, Peize Sun, Zehuan Yuan, Ping Luo  
-[[paper](https://arxiv.org/abs/2201.00487)] [[code](https://github.com/wjn922/ReferFormer)] <details> 
-  <summary>Notes</summary>
-   <img src="imgs/sot/referformer.png" width = "552" height = "258" alt="referformer" align=center />
-  <br>Key idea: 
-       <br>&emsp;- Viewing the language as queries to attend to the most relevant regions
-       <br>&emsp;- Performing tracking by linking the corresponding queries across frames
-   <br>Performance: 
-      <br>&emsp;- 55.6(resnet50)/64.2(swin-large) J&F on Ref-Youtube-VOS; 
-      <br>&emsp;- 55.0 mAP on A2D-Sentences; 
-      <br>&emsp;- 43.7 mAP on JHMDB-Sequences
-  </details>
+[[paper](https://arxiv.org/abs/2201.00487)] [[code](https://github.com/wjn922/ReferFormer)] 
+  <details> 
+    <summary>Notes</summary>
+     <img src="imgs/sot/referformer.png" width = "552" height = "258" alt="referformer" align=center />  
+
+    - Key idea:
+         - Viewing the language as queries to attend to the most relevant regions
+         - Performing tracking by linking the corresponding queries across frames
+     - Performance: 
+        - 55.6(resnet50)/64.2(swin-large) J&F on Ref-Youtube-VOS; 
+        - 55.0 mAP on A2D-Sentences; 
+        - 43.7 mAP on JHMDB-Sequences
+    </details>
 
 + Beyond 3D Siamese Tracking: A Motion-Centric Paradigm for 3D Single Object Tracking in Point Clouds. CVPR 2022  
 Chaoda Zheng, Xu Yan, Haiming Zhang, Baoyuan Wang, Shenghui Cheng, Shuguang Cui, Zhen Li     
