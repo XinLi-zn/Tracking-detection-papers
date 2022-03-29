@@ -6,9 +6,14 @@ Boyu Chen, Peixia Li, Lei Bai, Lei Qiao, Qiuhong Shen, Bo Li, Weihao Gan, Wei Wu
 
 ## CVPR 2022
 
+
++ Unsupervised Learning of Accurate Siamese Tracking. CVPR2022  
+Qiuhong Shen, Lei Qiao, Jinyang Guo, Peixia Li, Xin Li, Bo Li, Weitao Feng, Weihao Gan, Wei Wu, Wanli Ouyang   
+[paper] [code]
+
 + Visible-Thermal UAV Tracking: A Large-Scale Benchmark and New Baseline. CVPR2022  
 Pengyu Zhang, Jie Zhao, Dong Wang, Huchuan Lu, Xiang Ruan  
-[paper]  [code]
+[paper] [code]
 
 + Language as Queries for Referring Video Object Segmentation. CVPR2022  
 Jiannan Wu, Yi Jiang, Peize Sun, Zehuan Yuan, Ping Luo  
