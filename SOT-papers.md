@@ -9,9 +9,8 @@ Boyu Chen, Peixia Li, Lei Bai, Lei Qiao, Qiuhong Shen, Bo Li, Weihao Gan, Wei Wu
 
 + Language as Queries for Referring Video Object Segmentation. CVPR2022  
 Jiannan Wu, Yi Jiang, Peize Sun, Zehuan Yuan, Ping Luo  
-[[paper](https://arxiv.org/abs/2201.00487)] [[code](https://github.com/wjn922/ReferFormer)] 
-  
-  <details> <summary>Notes</summary>
+[[paper](https://arxiv.org/abs/2201.00487)] [[code](https://github.com/wjn922/ReferFormer)] <details> 
+  <summary>Notes</summary>
    <img src="imgs/sot/referformer.png" width = "552" height = "258" alt="referformer" align=center />
   <br>Key idea: 
        <br>&emsp;- Viewing the language as queries to attend to the most relevant regions
