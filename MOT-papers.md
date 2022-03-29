@@ -8,10 +8,6 @@ Jan-Nico Zaech, Alexander Liniger, Martin Danelljan, Dengxin Dai, Luc Van Gool
 [[paper](https://arxiv.org/abs/2202.08837)]   
 
 
-+ SimpleTrack: Rethinking and Improving the JDE Approach for Multi-Object Tracking (arXiv 2022-03)  
-Jiaxin Li, Yan Ding, Hualiang Wei  
-[[paper](http://de.arxiv.org/pdf/2203.03985.pdf)]   
-
 ## CVPR 2022  
 + Multi-Object Tracking Meets Moving UAV. CVPR 2022  
 Shuai Liu, Xin Li, Huchuan Lu, You He   
@@ -20,6 +16,15 @@ Shuai Liu, Xin Li, Huchuan Lu, You He
 + DanceTrack: Multi-Object Tracking in Uniform Appearance and Diverse Motion. CVPR 2022  
 Peize Sun, Jinkun Cao, Yi Jiang, Zehuan Yuan, Song Bai, Kris Kitani, Ping Luo   
 [[paper](https://arxiv.org/abs/2111.14690)] [[code](https://github.com/DanceTrack/DanceTrack)]
+  <details>
+    <summary>Notes</summary>
+     <img src="imgs/mot/dancetrack.png" width = "643" height = "242" alt="referformer" align=center />  
+
+    - Key points:
+         - Proposing a large-scale dataset for multi-human tracking, where humans have similar appearance, diverse motion and extreme articulation.
+         - Benchmarking several state-of-the-art trackers on the proposed dataset.
+    </details>
+
 
 + Global Tracking Transformers. CVPR 2022  
 Xingyi Zhou, Tianwei Yin, Vladlen Koltun, Phillip Krahenbuhl   
