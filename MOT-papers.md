@@ -12,7 +12,11 @@ Jan-Nico Zaech, Alexander Liniger, Martin Danelljan, Dengxin Dai, Luc Van Gool
 Jiaxin Li, Yan Ding, Hualiang Wei  
 [[paper](http://de.arxiv.org/pdf/2203.03985.pdf)]   
 
-## CVPR 2022
+## CVPR 2022  
++ Multi-Object Tracking Meets Moving UAV. CVPR 2022  
+Shuai Liu, Xin Li, Huchuan Lu, You He   
+[paper][code]  
+
 + DanceTrack: Multi-Object Tracking in Uniform Appearance and Diverse Motion. CVPR 2022  
 Peize Sun, Jinkun Cao, Yi Jiang, Zehuan Yuan, Song Bai, Kris Kitani, Ping Luo   
 [[paper](https://arxiv.org/abs/2111.14690)] [[code](https://github.com/DanceTrack/DanceTrack)]
