@@ -6,6 +6,11 @@ Boyu Chen, Peixia Li, Lei Bai, Lei Qiao, Qiuhong Shen, Bo Li, Weihao Gan, Wei Wu
 
 ## CVPR 2022
 
++ Language as Queries for Referring Video Object Segmentation. CVPR2022  
+Jiannan Wu, Yi Jiang, Peize Sun, Zehuan Yuan, Ping Luo  
+[[paper](https://arxiv.org/abs/2201.00487)] [[code](https://github.com/wjn922/ReferFormer)]   
+
+
 + Beyond 3D Siamese Tracking: A Motion-Centric Paradigm for 3D Single Object Tracking in Point Clouds. CVPR 2022  
 Chaoda Zheng, Xu Yan, Haiming Zhang, Baoyuan Wang, Shenghui Cheng, Shuguang Cui, Zhen Li     
 [[paper](https://arxiv.org/pdf/2203.01730.pdf)] [[code](https://github.com/Ghostish/Open3DSOT)] 
