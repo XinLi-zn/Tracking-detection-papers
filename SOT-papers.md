@@ -7,13 +7,24 @@ Boyu Chen, Peixia Li, Lei Bai, Lei Qiao, Qiuhong Shen, Bo Li, Weihao Gan, Wei Wu
 ## CVPR 2022
 
 
-+ Unsupervised Learning of Accurate Siamese Tracking. CVPR2022  
-Qiuhong Shen, Lei Qiao, Jinyang Guo, Peixia Li, Xin Li, Bo Li, Weitao Feng, Weihao Gan, Wei Wu, Wanli Ouyang   
-[paper] [code]
 
-+ Visible-Thermal UAV Tracking: A Large-Scale Benchmark and New Baseline. CVPR2022  
-Pengyu Zhang, Jie Zhao, Dong Wang, Huchuan Lu, Xiang Ruan  
-[paper] [code]
+
++ Beyond 3D Siamese Tracking: A Motion-Centric Paradigm for 3D Single Object Tracking in Point Clouds. CVPR 2022  
+Chaoda Zheng, Xu Yan, Haiming Zhang, Baoyuan Wang, Shenghui Cheng, Shuguang Cui, Zhen Li     
+[[paper](https://arxiv.org/pdf/2203.01730.pdf)] [[code](https://github.com/Ghostish/Open3DSOT)] 
+
++ Correlation-Aware Deep Tracking. CVPR 2022  
+Fei Xie, Chunyu Wang, Guangting Wang, Yue Cao, Wankou Yang, Wenjun Zeng    
+[[paper](https://arxiv.org/abs/2203.01666)] [code]
+
++ Global Tracking via Ensemble of Local Trackers. CVPR 2022  
+Zikun Zhou, Jianqiu Chen, Wenjie Pei, Kaige Mao, Hongpeng Wang, Zhenyu He    
+[[paper](https://arxiv.org/pdf/2203.16092.pdf)] [code] 
+
+
++ Iterative Corresponding Geometry: Fusing Region and Depth for Highly Efficient 3D Tracking of Textureless Objects. CVPR 2022  
+Manuel Stoiber, Martin Sundermeyer, Rudolph Triebel    
+[[paper](https://arxiv.org/abs/2203.05334)] [[code](https://github.com/DLR-RM/3DObjectTracking)]  
 
 + Language as Queries for Referring Video Object Segmentation. CVPR2022  
 Jiannan Wu, Yi Jiang, Peize Sun, Zehuan Yuan, Ping Luo  
@@ -31,18 +42,6 @@ Jiannan Wu, Yi Jiang, Peize Sun, Zehuan Yuan, Ping Luo
         - 43.7 mAP on JHMDB-Sequences
     </details>
 
-+ Beyond 3D Siamese Tracking: A Motion-Centric Paradigm for 3D Single Object Tracking in Point Clouds. CVPR 2022  
-Chaoda Zheng, Xu Yan, Haiming Zhang, Baoyuan Wang, Shenghui Cheng, Shuguang Cui, Zhen Li     
-[[paper](https://arxiv.org/pdf/2203.01730.pdf)] [[code](https://github.com/Ghostish/Open3DSOT)] 
-
-+ Correlation-Aware Deep Tracking. CVPR 2022  
-Fei Xie, Chunyu Wang, Guangting Wang, Yue Cao, Wankou Yang, Wenjun Zeng    
-[[paper](https://arxiv.org/abs/2203.01666)] [[code]()]  
-
-+ Iterative Corresponding Geometry: Fusing Region and Depth for Highly Efficient 3D Tracking of Textureless Objects. CVPR 2022  
-Manuel Stoiber, Martin Sundermeyer, Rudolph Triebel    
-[[paper](https://arxiv.org/abs/2203.05334)] [[code](https://github.com/DLR-RM/3DObjectTracking)]  
-
 + MixFormer: End-to-End Tracking with Iterative Mixed Attention. CVPR 2022  
 Yutao Cui, Cheng Jiang, Limin Wang, Gangshan    
 [[paper](https://arxiv.org/pdf/2203.11082.pdf)] [[code](https://github.com/MCG-NJU/MixFormer)]  
@@ -59,6 +58,13 @@ Ziang Cao, Ziyuan Huang, Liang Pan, Shiwei Zhang, Ziwei Liu, Changhong Fu
 Junjie Ye, Changhong Fu, Guangze Zheng, Danda Pani Paudel, Guang Chen     
 [[paper](https://arxiv.org/abs/2203.10541)] [[code](https://github.com/vision4robotics/UDAT)] 
 
++ Unsupervised Learning of Accurate Siamese Tracking. CVPR2022  
+Qiuhong Shen, Lei Qiao, Jinyang Guo, Peixia Li, Xin Li, Bo Li, Weitao Feng, Weihao Gan, Wei Wu, Wanli Ouyang   
+[paper] [code]
+
++ Visible-Thermal UAV Tracking: A Large-Scale Benchmark and New Baseline. CVPR2022  
+Pengyu Zhang, Jie Zhao, Dong Wang, Huchuan Lu, Xiang Ruan  
+[paper] [code]
 
 ## arXiv 2021
 
