@@ -116,6 +116,10 @@ Yanghao Li, Hanzi Mao, Ross Girshick, Kaiming He
 Ziteng Gao, Limin Wang, Bing Han, Sheng Guo  
 [[paper](https://arxiv.org/pdf/2203.16527.pdf)] [[code](https://github.com/MCG-NJU/AdaMixer)]  
 
++ Few-Shot Object Detection with Fully Cross-Transformer.  
+Guangxing Han, Jiawei Ma, Shiyuan Huang, Long Chen, Shih-Fu Chang  
+[[paper](https://arxiv.org/pdf/2203.15021.pdf)]    
+
 ### CVPR 2021
 
 + UP-DETR: Unsupervised Pre-training for Object Detection with Transformers.
