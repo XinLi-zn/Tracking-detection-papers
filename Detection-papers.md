@@ -103,7 +103,20 @@ Yihe Tang, Weifeng Chen, Yijun Luo, Yuting Zhang
 
 ## Transformer-based Object Detection
 
-### CVPR2021
+
+
+### arXiv 2022
+
++ Exploring Plain Vision Transformer Backbones for Object Detection.  
+Yanghao Li, Hanzi Mao, Ross Girshick, Kaiming He  
+[[paper](https://arxiv.org/pdf/2203.16527.pdf)] [code]  
+
+### CVPR 2022  
++ AdaMixer: A Fast-Converging Query-Based Object Detector.  
+Ziteng Gao, Limin Wang, Bing Han, Sheng Guo  
+[[paper](https://arxiv.org/pdf/2203.16527.pdf)] [[code](https://github.com/MCG-NJU/AdaMixer)]  
+
+### CVPR 2021
 
 + UP-DETR: Unsupervised Pre-training for Object Detection with Transformers.
 Zhigang Dai, Bolun Cai, Yugeng Lin, Junying Chen.
