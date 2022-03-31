@@ -4,6 +4,18 @@
 Boyu Chen, Peixia Li, Lei Bai, Lei Qiao, Qiuhong Shen, Bo Li, Weihao Gan, Wei Wu, Wanli Ouyang    
 [[paper](https://arxiv.org/pdf/2203.05328)]  
 
++ RGBD Object Tracking: An In-depth Review. arXiv 2022-03  
+Jinyu Yang, Zhe Li, Song Yan, Feng Zheng, Aleš Leonardis, Joni-Kristian Kämäräinen, Ling Shao    
+[[paper](https://arxiv.org/abs/2203.14134)]  [[code](https://github.com/memoryunreal/RGBD-tracking-review)]
+
++ BCOT: A Markerless High-Precision 3D Object Tracking Benchmark. arXiv 2022-03  
+Jiachen Li, Bin Wang, Shiqiang Zhu, Xin Cao, Fan Zhong, Wenxuan Chen, Te Li, Jason Gu, Xueying Qin    
+[[paper](https://arxiv.org/abs/2203.13437)]  [[code](https://ar3dv.github.io/BCOT-Benchmark/)]
+
++ Efficient Visual Tracking via Hierarchical Cross-Attention Transformer. arXiv 2022-03  
+Xin Chen, Dong Wang, Dongdong Li, Huchuan Lu    
+[[paper](https://arxiv.org/abs/2203.13537)]  [[code](https://github.com/chenxin-dlut/HCAT)]
+
 ## CVPR 2022
 
 
