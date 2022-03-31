@@ -7,11 +7,28 @@
 [[Ranking list on COCO test-dev](https://paperswithcode.com/sota/object-detection-on-coco)]  
 [[Anchor free detectors](https://mp.weixin.qq.com/s/NRu7PhDW52vZVFiFLA3xhg)]  
 
-## Unclassified
+## Unclassified  
+### arXiv 2022  
++ BigDetection: A Large-scale Benchmark for Improved Object Detector Pre-training  
+Likun Cai, Zhi Zhang, Yi Zhu, Li Zhang, Mu Li, Xiangyang Xue   
+[[paper](https://arxiv.org/pdf/2203.13249.pdf)] [[code]()]
+
+
+
+### CVPR 2022  
++ Expanding Low-Density Latent Regions for Open-Set Object Detection  
+Jiaming Han, Yuqiang Ren, Jian Ding, Xingjia Pan, Ke Yan, Gui-Song Xia   
+[[paper](https://arxiv.org/pdf/2106.08713.pdf)]
+
++ Optimal Correction Cost for Object Detection Evaluation    
+Mayu Otani, Riku Togashi, Yuta Nakashima, Esa Rahtu, Janne Heikkilä, Shin'ichi Satoh   
+[[paper](https://arxiv.org/pdf/2203.14438.pdf)]
+
+
 ### ArXiv 2021   
 + 2nd Place Solution for Waymo Open Dataset Challenge — Real-time 2D Object Detection 
 Yueming Zhang, Xiaolin Song, Bing Bai, Tengfei Xing, Chao Liu, Xin Gao, Zhihui Wang, Yawei Wen, Haojin Liao, Guoshan Zhang, Pengfei Xu  
-[[paper](https://arxiv.org/pdf/2106.08713.pdf)]
+[[paper](https://arxiv.org/pdf/2203.14911.pdf)] [[code](https://github.com/csuhan/opendet2)]  
 
 + Towards Total Recall in Industrial Anomaly Detection  
 [[paper](https://arxiv.org/pdf/2106.08265.pdf)]
@@ -49,12 +66,17 @@ Xiyang Dai, Yinpeng Chen, Bin Xiao, Dongdong Chen, Mengchen Liu, Lu Yuan, Lei Zh
 
 ## Semi-Supervised, UN-supervised, and self-supervised Object Detection
 
+
 ### ArXiv 2022  
 
 + Sparsely Annotated Object Detection: A Region-based Semi-supervised Approach  
 Sai Saketh Rambhatla, Saksham Suri, Rama Chellappa, Abhinav Shrivastava  
 [[paper](https://arxiv.org/pdf/2201.04620)] 
 
+### CVPR 2022  
++ Sylph: A Hypernetwork Framework for Incremental Few-shot Object Detection  
+Li Yin, Juan M Perez-Rua, Kevin J Liang  
+[[paper](https://arxiv.org/pdf/2203.13903.pdf)] 
 
 ### ArXiv 2021
 
