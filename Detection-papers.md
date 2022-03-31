@@ -13,6 +13,9 @@
 Likun Cai, Zhi Zhang, Yi Zhu, Li Zhang, Mu Li, Xiangyang Xue   
 [[paper](https://arxiv.org/pdf/2203.13249.pdf)] [[code]()]
 
++ PP-YOLOE: An evolved version of YOLO  
+Shangliang Xu, Xinxin Wang, Wenyu Lv, Qinyao Chang, Cheng Cui, Kaipeng Deng, Guanzhong Wang, Qingqing Dang, Shengyu Wei, Yuning Du, Baohua Lai  
+[[paper](https://arxiv.org/pdf/2203.13249.pdf)] [[code](https://github.com/PaddlePaddle/PaddleDetection)]
 
 
 ### CVPR 2022  
