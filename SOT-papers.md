@@ -7,8 +7,6 @@ Boyu Chen, Peixia Li, Lei Bai, Lei Qiao, Qiuhong Shen, Bo Li, Weihao Gan, Wei Wu
 ## CVPR 2022
 
 
-
-
 + Beyond 3D Siamese Tracking: A Motion-Centric Paradigm for 3D Single Object Tracking in Point Clouds. CVPR 2022  
 Chaoda Zheng, Xu Yan, Haiming Zhang, Baoyuan Wang, Shenghui Cheng, Shuguang Cui, Zhen Li     
 [[paper](https://arxiv.org/pdf/2203.01730.pdf)] [[code](https://github.com/Ghostish/Open3DSOT)] 
@@ -57,6 +55,10 @@ Ziang Cao, Ziyuan Huang, Liang Pan, Shiwei Zhang, Ziwei Liu, Changhong Fu
 + Unsupervised Domain Adaptation for Nighttime Aerial Tracking. CVPR 2022  
 Junjie Ye, Changhong Fu, Guangze Zheng, Danda Pani Paudel, Guang Chen     
 [[paper](https://arxiv.org/abs/2203.10541)] [[code](https://github.com/vision4robotics/UDAT)] 
+
++ Unified Transformer Tracker for Object Tracking. CVPR2022  
+Fan Ma, Mike Zheng Shou, Linchao Zhu, Haoqi Fan, Yilei Xu, Yi Yang, Zhicheng Yan   
+[[paper](https://arxiv.org/pdf/2203.15175.pdf)] [code]
 
 + Unsupervised Learning of Accurate Siamese Tracking. CVPR2022  
 Qiuhong Shen, Lei Qiao, Jinyang Guo, Peixia Li, Xin Li, Bo Li, Weitao Feng, Weihao Gan, Wei Wu, Wanli Ouyang   
