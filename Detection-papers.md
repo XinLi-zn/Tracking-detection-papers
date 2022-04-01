@@ -7,65 +7,42 @@
 [[Ranking list on COCO test-dev](https://paperswithcode.com/sota/object-detection-on-coco)]  
 [[Anchor free detectors](https://mp.weixin.qq.com/s/NRu7PhDW52vZVFiFLA3xhg)]  
 
-## Unclassified  
-### arXiv 2022  
-+ BigDetection: A Large-scale Benchmark for Improved Object Detector Pre-training  
-Likun Cai, Zhi Zhang, Yi Zhu, Li Zhang, Mu Li, Xiangyang Xue   
-[[paper](https://arxiv.org/pdf/2203.13249.pdf)] [[code]()]
 
-+ PP-YOLOE: An evolved version of YOLO  
-Shangliang Xu, Xinxin Wang, Wenyu Lv, Qinyao Chang, Cheng Cui, Kaipeng Deng, Guanzhong Wang, Qingqing Dang, Shengyu Wei, Yuning Du, Baohua Lai  
-[[paper](https://arxiv.org/pdf/2203.13249.pdf)] [[code](https://github.com/PaddlePaddle/PaddleDetection)]
+## Transformer-based Object Detection
 
+### arXiv 2022
+
++ Exploring Plain Vision Transformer Backbones for Object Detection.  
+Yanghao Li, Hanzi Mao, Ross Girshick, Kaiming He  
+[[paper](https://arxiv.org/pdf/2203.16527.pdf)] [code]  
 
 ### CVPR 2022  
-+ Expanding Low-Density Latent Regions for Open-Set Object Detection  
-Jiaming Han, Yuqiang Ren, Jian Ding, Xingjia Pan, Ke Yan, Gui-Song Xia   
-[[paper](https://arxiv.org/pdf/2106.08713.pdf)]
++ Accelerating DETR Convergence via Semantic-Aligned Matching.  
+Gongjie Zhang, Zhipeng Luo, Yingchen Yu, Kaiwen Cui, Shijian Lu  
+[[paper](https://arxiv.org/abs/2203.06883)]  [[code](https://github.com/ZhangGongjie/SAM-DETR)]  [[related materials](https://zhuanlan.zhihu.com/p/489839282)]  
 
-+ Optimal Correction Cost for Object Detection Evaluation    
-Mayu Otani, Riku Togashi, Yuta Nakashima, Esa Rahtu, Janne Heikkilä, Shin'ichi Satoh   
-[[paper](https://arxiv.org/pdf/2203.14438.pdf)]
++ AdaMixer: A Fast-Converging Query-Based Object Detector.  
+Ziteng Gao, Limin Wang, Bing Han, Sheng Guo  
+[[paper](https://arxiv.org/pdf/2203.16527.pdf)] [[code](https://github.com/MCG-NJU/AdaMixer)]  
+
++ Few-Shot Object Detection with Fully Cross-Transformer.  
+Guangxing Han, Jiawei Ma, Shiyuan Huang, Long Chen, Shih-Fu Chang  
+[[paper](https://arxiv.org/pdf/2203.15021.pdf)]    
 
 
-### ArXiv 2021   
-+ 2nd Place Solution for Waymo Open Dataset Challenge — Real-time 2D Object Detection 
-Yueming Zhang, Xiaolin Song, Bing Bai, Tengfei Xing, Chao Liu, Xin Gao, Zhihui Wang, Yawei Wen, Haojin Liao, Guoshan Zhang, Pengfei Xu  
-[[paper](https://arxiv.org/pdf/2203.14911.pdf)] [[code](https://github.com/csuhan/opendet2)]  
 
-+ Towards Total Recall in Industrial Anomaly Detection  
-[[paper](https://arxiv.org/pdf/2106.08265.pdf)]
+### CVPR 2021
 
-+ MDETR - Modulated Detection for End-to-End Multi-Modal Understanding    
-Zheng Ge, Songtao Liu, Feng Wang, Zeming Li, Jian Sun   
-[[paper](https://arxiv.org/abs/2104.12763)] [[code](https://github.com/ashkamath/mdetr)] [[ruanwen](https://mp.weixin.qq.com/s/FYKkRVrmCajlzfxIABVEOg)] 
++ UP-DETR: Unsupervised Pre-training for Object Detection with Transformers.
+Zhigang Dai, Bolun Cai, Yugeng Lin, Junying Chen.
+[[paper](https://arxiv.org/pdf/2011.09094)]  [[code](https://github.com/dddzg/up-detr)]
 
-+ YOLOX: Exceeding YOLO Series in 2021  
-Zheng Ge, Songtao Liu, Feng Wang, Zeming Li, Jian Sun   
-[[paper](https://arxiv.org/pdf/2107.08430.pdf)] [[code](https://github.com/Megvii-BaseDetection/YOLOX)] 
++ Deformable DETR: Deformable Transformers for End-to-End Object Detection.  
+Xizhou Zhu, Weijie Su, Lewei Lu, Bin Li, Xiaogang Wang, Jifeng Dai.  
+[[paper](https://arxiv.org/pdf/2010.04159.pdf)]  [[code](https://github.com/fundamentalvision/Deformable-DETR)]
 
-+ CBNetV2: A Composite Backbone Network Architecture for Object Detection  
-Tingting Liang, Xiaojie Chu, Yudong Liu, Yongtao Wang, Zhi Tang, Wei Chu, Jingdong Chen, Haibin Ling  
-[[paper](https://arxiv.org/pdf/2107.00420.pdf)] [[code]( https://github.com/VDIGPKU/CBNetV2)]  
++  Adaptive Image Transformer for One-Shot Object Detection
 
-### CVPR 2021   
-+ RPN Prototype Alignment for Domain Adaptive Object Detector  
-
-+ Informative and Consistent Correspondence Mining for Cross-Domain Weakly Supervised Object Detection  
-
-+ Beyond Bounding-Box: Convex-Hull Feature Adaptation for Oriented and Densely Packed Object Detection  
-
-+ Dynamic Head: Unifying Object Detection Heads With Attentions  
-Xiyang Dai, Yinpeng Chen, Bin Xiao, Dongdong Chen, Mengchen Liu, Lu Yuan, Lei Zhang  
-[[paper](https://arxiv.org/pdf/2106.08322.pdf)] [[code](https://github.com/microsoft/DynamicHead)]
-
-+ Layer-Wise Searching for 1-Bit Detectors  
-
-+ Positive-Unlabeled Data Purification in the Wild for Object Detection  
-
-+ GAIA: A Transfer Learning System of Object Detection That Fits Your Needs.  
-
-+ RankDetNet: Delving Into Ranking Constraints for Object Detection.
 
 ## Semi-Supervised, UN-supervised, and self-supervised Object Detection
 
@@ -126,36 +103,7 @@ Ceyuan Yang, Zhirong Wu, Bolei Zhou, Stephen Lin
 Yihe Tang, Weifeng Chen, Yijun Luo, Yuting Zhang  
 [[paper](https://arxiv.org/pdf/2106.10456.pdff)]  [[code](https://github.com/lryta/HumbleTeacher)]
 
-## Transformer-based Object Detection
 
-
-
-### arXiv 2022
-
-+ Exploring Plain Vision Transformer Backbones for Object Detection.  
-Yanghao Li, Hanzi Mao, Ross Girshick, Kaiming He  
-[[paper](https://arxiv.org/pdf/2203.16527.pdf)] [code]  
-
-### CVPR 2022  
-+ AdaMixer: A Fast-Converging Query-Based Object Detector.  
-Ziteng Gao, Limin Wang, Bing Han, Sheng Guo  
-[[paper](https://arxiv.org/pdf/2203.16527.pdf)] [[code](https://github.com/MCG-NJU/AdaMixer)]  
-
-+ Few-Shot Object Detection with Fully Cross-Transformer.  
-Guangxing Han, Jiawei Ma, Shiyuan Huang, Long Chen, Shih-Fu Chang  
-[[paper](https://arxiv.org/pdf/2203.15021.pdf)]    
-
-### CVPR 2021
-
-+ UP-DETR: Unsupervised Pre-training for Object Detection with Transformers.
-Zhigang Dai, Bolun Cai, Yugeng Lin, Junying Chen.
-[[paper](https://arxiv.org/pdf/2011.09094)]  [[code](https://github.com/dddzg/up-detr)]
-
-+ Deformable DETR: Deformable Transformers for End-to-End Object Detection.  
-Xizhou Zhu, Weijie Su, Lewei Lu, Bin Li, Xiaogang Wang, Jifeng Dai.  
-[[paper](https://arxiv.org/pdf/2010.04159.pdf)]  [[code](https://github.com/fundamentalvision/Deformable-DETR)]
-
-+  Adaptive Image Transformer for One-Shot Object Detection
 
 ## Dense Object Detection
 
@@ -364,6 +312,65 @@ Keshigeyan Chandrasegaran, Ngoc-Trung Tran, Ngai-Man Cheung
 Zheng Ge, Songtao Liu, Zeming Li, Osamu Yoshie, Jian Sun  
 [[paper](https://arxiv.org/pdf/2103.14259.pdf)] [[code](https://github.com/Megvii-BaseDetection/OTA)]
 
+## Unclassified  
+### arXiv 2022  
++ BigDetection: A Large-scale Benchmark for Improved Object Detector Pre-training  
+Likun Cai, Zhi Zhang, Yi Zhu, Li Zhang, Mu Li, Xiangyang Xue   
+[[paper](https://arxiv.org/pdf/2203.13249.pdf)] [[code]()]
+
++ PP-YOLOE: An evolved version of YOLO  
+Shangliang Xu, Xinxin Wang, Wenyu Lv, Qinyao Chang, Cheng Cui, Kaipeng Deng, Guanzhong Wang, Qingqing Dang, Shengyu Wei, Yuning Du, Baohua Lai  
+[[paper](https://arxiv.org/pdf/2203.13249.pdf)] [[code](https://github.com/PaddlePaddle/PaddleDetection)]
+
+
+### CVPR 2022  
++ Expanding Low-Density Latent Regions for Open-Set Object Detection  
+Jiaming Han, Yuqiang Ren, Jian Ding, Xingjia Pan, Ke Yan, Gui-Song Xia   
+[[paper](https://arxiv.org/pdf/2106.08713.pdf)]
+
++ Optimal Correction Cost for Object Detection Evaluation    
+Mayu Otani, Riku Togashi, Yuta Nakashima, Esa Rahtu, Janne Heikkilä, Shin'ichi Satoh   
+[[paper](https://arxiv.org/pdf/2203.14438.pdf)]
+
+
+### ArXiv 2021   
++ 2nd Place Solution for Waymo Open Dataset Challenge — Real-time 2D Object Detection 
+Yueming Zhang, Xiaolin Song, Bing Bai, Tengfei Xing, Chao Liu, Xin Gao, Zhihui Wang, Yawei Wen, Haojin Liao, Guoshan Zhang, Pengfei Xu  
+[[paper](https://arxiv.org/pdf/2203.14911.pdf)] [[code](https://github.com/csuhan/opendet2)]  
+
++ Towards Total Recall in Industrial Anomaly Detection  
+[[paper](https://arxiv.org/pdf/2106.08265.pdf)]
+
++ MDETR - Modulated Detection for End-to-End Multi-Modal Understanding    
+Zheng Ge, Songtao Liu, Feng Wang, Zeming Li, Jian Sun   
+[[paper](https://arxiv.org/abs/2104.12763)] [[code](https://github.com/ashkamath/mdetr)] [[ruanwen](https://mp.weixin.qq.com/s/FYKkRVrmCajlzfxIABVEOg)] 
+
++ YOLOX: Exceeding YOLO Series in 2021  
+Zheng Ge, Songtao Liu, Feng Wang, Zeming Li, Jian Sun   
+[[paper](https://arxiv.org/pdf/2107.08430.pdf)] [[code](https://github.com/Megvii-BaseDetection/YOLOX)] 
+
++ CBNetV2: A Composite Backbone Network Architecture for Object Detection  
+Tingting Liang, Xiaojie Chu, Yudong Liu, Yongtao Wang, Zhi Tang, Wei Chu, Jingdong Chen, Haibin Ling  
+[[paper](https://arxiv.org/pdf/2107.00420.pdf)] [[code]( https://github.com/VDIGPKU/CBNetV2)]  
+
+### CVPR 2021   
++ RPN Prototype Alignment for Domain Adaptive Object Detector  
+
++ Informative and Consistent Correspondence Mining for Cross-Domain Weakly Supervised Object Detection  
+
++ Beyond Bounding-Box: Convex-Hull Feature Adaptation for Oriented and Densely Packed Object Detection  
+
++ Dynamic Head: Unifying Object Detection Heads With Attentions  
+Xiyang Dai, Yinpeng Chen, Bin Xiao, Dongdong Chen, Mengchen Liu, Lu Yuan, Lei Zhang  
+[[paper](https://arxiv.org/pdf/2106.08322.pdf)] [[code](https://github.com/microsoft/DynamicHead)]
+
++ Layer-Wise Searching for 1-Bit Detectors  
+
++ Positive-Unlabeled Data Purification in the Wild for Object Detection  
+
++ GAIA: A Transfer Learning System of Object Detection That Fits Your Needs.  
+
++ RankDetNet: Delving Into Ranking Constraints for Object Detection.
 
 
 ### Related fields
