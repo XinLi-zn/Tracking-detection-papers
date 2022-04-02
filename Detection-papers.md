@@ -14,7 +14,17 @@
 
 + Exploring Plain Vision Transformer Backbones for Object Detection.  
 Yanghao Li, Hanzi Mao, Ross Girshick, Kaiming He  
-[[paper](https://arxiv.org/pdf/2203.16527.pdf)] [code]  
+[[paper](https://arxiv.org/pdf/2203.16527.pdf)] [code]
+  <details>
+    <summary>Notes</summary>
+     <img src="imgs/det/PVTOD.jpg" width = "395" height = "81" alt="referformer" align=center />  
+
+    - Key points:
+         - Exploring a plain, non-hierarchical vision transformer as the backbone network for object detection.
+         - Using window attention aided with very few cross-window propagation blocks is sufficient for information interaction.
+    - Performance:
+         - 60.4 AP(box) on COCO, with ViT-H backbone (MAE pretraining on 1K) and Cascade framework.
+    </details>
 
 ### CVPR 2022  
 + Accelerating DETR Convergence via Semantic-Aligned Matching.  
