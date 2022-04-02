@@ -17,7 +17,7 @@ Yanghao Li, Hanzi Mao, Ross Girshick, Kaiming He
 [[paper](https://arxiv.org/pdf/2203.16527.pdf)] [code]
   <details>
     <summary>Notes</summary>
-     <img src="imgs/det/PVTOD.jpg" width = "395" height = "81" alt="referformer" align=center />  
+     <img src="imgs/det/PVTOD.png" width = "797" height = "117" alt="referformer" align=center />  
 
     - Key points:
          - Exploring a plain, non-hierarchical vision transformer as the backbone network for object detection.
