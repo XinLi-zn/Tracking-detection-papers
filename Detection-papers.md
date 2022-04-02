@@ -33,7 +33,7 @@ Gongjie Zhang, Zhipeng Luo, Yingchen Yu, Kaiwen Cui, Shijian Lu
 
 + AdaMixer: A Fast-Converging Query-Based Object Detector.  
 Ziteng Gao, Limin Wang, Bing Han, Sheng Guo  
-[[paper](https://arxiv.org/pdf/2203.16527.pdf)] [[code](https://github.com/MCG-NJU/AdaMixer)]  
+[[paper](https://arxiv.org/pdf/2203.16507.pdf)] [[code](https://github.com/MCG-NJU/AdaMixer)]  
 
 + Few-Shot Object Detection with Fully Cross-Transformer.  
 Guangxing Han, Jiawei Ma, Shiyuan Huang, Long Chen, Shih-Fu Chang  
