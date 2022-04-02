@@ -11,6 +11,9 @@ Jan-Nico Zaech, Alexander Liniger, Martin Danelljan, Dengxin Dai, Luc Van Gool
 Jinkun Cao, Xinshuo Weng, Rawal Khirodkar, Jiangmiao Pang, Kris Kitani   
 [[paper](https://arxiv.org/pdf/2203.14360.pdf)]  [[code](https://github.com/noahcao/OC_SORT)]
 
++ TR-MOT: Multi-Object Tracking by Reference (arXiv 2022-03)  
+Mingfei Chen, Yue Liao, Si Liu, Fei Wang, Jenq-Neng Hwang   
+[[paper](https://arxiv.org/pdf/2203.16621.pdf)]  [code]  
 
 ## CVPR 2022  
 
@@ -31,6 +34,10 @@ Peize Sun, Jinkun Cao, Yi Jiang, Zehuan Yuan, Song Bai, Kris Kitani, Ping Luo
 + Global Tracking Transformers. CVPR 2022  
 Xingyi Zhou, Tianwei Yin, Vladlen Koltun, Phillip Krahenbuhl   
 [[paper](https://arxiv.org/pdf/2203.13250.pdf)] [[code](https://github.com/xingyizhou/GTR)]  
+
++ MeMOT: Multi-Object Tracking with Memory. CVPR 2022  
+Jiarui Cai, Mingze Xu, Wei Li, Yuanjun Xiong, Wei Xia, Zhuowen Tu, Stefano Soatto   
+[[paper](https://arxiv.org/pdf/2203.16621.pdf)][[code]()] 
 
 + Multi-Object Tracking Meets Moving UAV. CVPR 2022  
 Shuai Liu, Xin Li, Huchuan Lu, You He   
