@@ -29,6 +29,9 @@ Ziteng Gao, Limin Wang, Bing Han, Sheng Guo
 Guangxing Han, Jiawei Ma, Shiyuan Huang, Long Chen, Shih-Fu Chang  
 [[paper](https://arxiv.org/pdf/2203.15021.pdf)]    
 
++ Multi-Granularity Alignment Domain Adaptation for Object Detection.  
+Wenzhang Zhou, Dawei Du, Libo Zhang, Tiejian Luo, Yanjun Wu  
+[[paper](https://arxiv.org/pdf/2203.16897.pdf)]  [[code](https://github.com/tiankongzhang/MGADA)]  
 
 
 ### CVPR 2021
