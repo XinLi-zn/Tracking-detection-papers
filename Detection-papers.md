@@ -393,7 +393,7 @@ Tingting Liang, Xiaojie Chu, Yudong Liu, Yongtao Wang, Zhi Tang, Wei Chu, Jingdo
 
 + Dynamic Head: Unifying Object Detection Heads With Attentions  
 Xiyang Dai, Yinpeng Chen, Bin Xiao, Dongdong Chen, Mengchen Liu, Lu Yuan, Lei Zhang  
-[[paper](https://arxiv.org/pdf/2106.08322.pdf)] [[code](https://github.com/microsoft/DynamicHead)]
+[[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Dai_Dynamic_Head_Unifying_Object_Detection_Heads_With_Attentions_CVPR_2021_paper.pdf)] [[code](https://github.com/microsoft/DynamicHead)]
 
 + Layer-Wise Searching for 1-Bit Detectors  
 
