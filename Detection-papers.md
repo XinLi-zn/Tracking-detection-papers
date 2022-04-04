@@ -114,7 +114,14 @@ Ceyuan Yang, Zhirong Wu, Bolei Zhou, Stephen Lin
 
 + Humble Teachers Teach Better Students for Semi-Supervised Object Detection  
 Yihe Tang, Weifeng Chen, Yijun Luo, Yuting Zhang  
-[[paper](https://arxiv.org/pdf/2106.10456.pdff)]  [[code](https://github.com/lryta/HumbleTeacher)]
+[[paper](https://arxiv.org/pdf/2106.10456.pdf)]  [[code](https://github.com/lryta/HumbleTeacher)]
+
+
+## 3D Object Detection
+
++ CAT-Det: Contrastively Augmented Transformer for Multi-modal 3D Object Detection. CVPR 2022 
+Yanan Zhang, Jiaxin Chen, Di Huang  
+[[paper](https://arxiv.org/pdf/2204.00325)]  [code]
 
 
 
@@ -324,6 +331,13 @@ Keshigeyan Chandrasegaran, Ngoc-Trung Tran, Ngai-Man Cheung
 + OTA: Optimal Transport Assignment for Object Detection  
 Zheng Ge, Songtao Liu, Zeming Li, Osamu Yoshie, Jian Sun  
 [[paper](https://arxiv.org/pdf/2103.14259.pdf)] [[code](https://github.com/Megvii-BaseDetection/OTA)]
+
+
+## Localization
++ Bridging the Gap between Classification and Localization for Weakly Supervised Object Localization. CVPR 2022  
+Eunji Kim, Siwon Kim, Jungbeom Lee, Hyunwoo Kim, Sungroh Yoon   
+[[paper](https://arxiv.org/pdf/2203.13249.pdf)] [code]
+
 
 ## Unclassified  
 ### arXiv 2022  
