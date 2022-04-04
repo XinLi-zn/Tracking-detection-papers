@@ -337,6 +337,10 @@ Shangliang Xu, Xinxin Wang, Wenyu Lv, Qinyao Chang, Cheng Cui, Kaipeng Deng, Gua
 
 
 ### CVPR 2022  
++ Proper Reuse of Image Classification Features Improves Object Detection  
+Cristina Vasconcelos, Vighnesh Birodkar, Vincent Dumoulin   
+[[paper](https://arxiv.org/pdf/2204.00484.pdf)] [[code](https://github.com/tensorflow/models/blob/master/official/projects/backbone_reuse/README.md)]  
+
 + Expanding Low-Density Latent Regions for Open-Set Object Detection  
 Jiaming Han, Yuqiang Ren, Jian Ding, Xingjia Pan, Ke Yan, Gui-Song Xia   
 [[paper](https://arxiv.org/pdf/2106.08713.pdf)]
