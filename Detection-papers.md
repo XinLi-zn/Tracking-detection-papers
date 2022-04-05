@@ -12,7 +12,20 @@
 
 ### arXiv 2022
 
-+ Exploring Plain Vision Transformer Backbones for Object Detection.  
++ DINO: DETR with Improved DeNoising Anchor Boxes for End-to-End Object Detection. arXiv 2022-03  
+Hao Zhang, Feng Li, Shilong Liu, Lei Zhang, Hang Su, Jun Zhu, Lionel M. Ni, Heung-Yeung Shum   
+[[paper](https://arxiv.org/abs/2203.03605)] [[code](https://github.com/IDEACVR/DINO)]
+  <details>
+    <summary>Notes</summary>
+     <img src="imgs/det/PVTOD.png" width = "797" height = "117" alt="referformer" align=center />  
+
+    - Key points:
+         - Ex
+    - Performance:
+         - 
+    </details>
+
++ Exploring Plain Vision Transformer Backbones for Object Detection.  arXiv 2022-03  
 Yanghao Li, Hanzi Mao, Ross Girshick, Kaiming He  
 [[paper](https://arxiv.org/pdf/2203.16527.pdf)] [code]
   <details>
