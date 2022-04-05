@@ -20,9 +20,10 @@ Hao Zhang, Feng Li, Shilong Liu, Lei Zhang, Hang Su, Jun Zhu, Lionel M. Ni, Heun
      <img src="imgs/det/PVTOD.png" width = "797" height = "117" alt="referformer" align=center />  
 
     - Key points:
-         - Ex
+         - A contrastive way for denoising training, a mixed query selection method for anchor initialization, and a forward twice scheme fo box prediction.  
     - Performance:
-         - 
+         - 63.2 AP on COCO val2017 with a SiwnL backbone
+         - 63.3 AP on test-dev
     </details>
 
 + Exploring Plain Vision Transformer Backbones for Object Detection.  arXiv 2022-03  
@@ -40,6 +41,11 @@ Yanghao Li, Hanzi Mao, Ross Girshick, Kaiming He
     </details>
 
 ### CVPR 2022  
+
++ Accelerating DETR Convergence via Semantic-Aligned Matching.  
+Gongjie Zhang, Zhipeng Luo, Yingchen Yu, Kaiwen Cui, Shijian Lu  
+[[paper](https://arxiv.org/abs/2203.06883)]  [[code](https://github.com/ZhangGongjie/SAM-DETR)]  [[related materials](https://zhuanlan.zhihu.com/p/489839282)]  
+
 + Accelerating DETR Convergence via Semantic-Aligned Matching.  
 Gongjie Zhang, Zhipeng Luo, Yingchen Yu, Kaiwen Cui, Shijian Lu  
 [[paper](https://arxiv.org/abs/2203.06883)]  [[code](https://github.com/ZhangGongjie/SAM-DETR)]  [[related materials](https://zhuanlan.zhihu.com/p/489839282)]  
