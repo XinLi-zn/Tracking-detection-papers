@@ -82,6 +82,12 @@ Xizhou Zhu, Weijie Su, Lewei Lu, Bin Li, Xiaogang Wang, Jifeng Dai.
 +  Adaptive Image Transformer for One-Shot Object Detection
 
 
+### ECCV 2020  
++ **DETR**End-to-end object detection with transformers.
+Nicolas Carion, Francisco Massa, Gabriel Synnaeve, Nicolas Usunier, Alexander Kirillov, Sergey Zagoruyko.
+[[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123460205.pdf)]  [[code](https://github.com/facebookresearch/detr)]
+
+
 ## Semi-Supervised, UN-supervised, and self-supervised Object Detection
 
 
