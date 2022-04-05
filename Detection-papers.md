@@ -40,6 +40,12 @@ Yanghao Li, Hanzi Mao, Ross Girshick, Kaiming He
          - 60.4 AP(box) on COCO, with ViT-H backbone (MAE pretraining on 1K) and Cascade framework.
     </details>
 
+### ICLR 2022   
+
++ DAB-DETR: Dynamic Anchor Boxes are Better Queries for DETR.  
+Shilong Liu, Feng Li, Hao Zhang, Xiao Yang, Xianbiao Qi, Hang Su, Jun Zhu, Lei Zhang    
+[[paper](https://arxiv.org/abs/2201.12329)]  [[code](https://github.com/SlongLiu/DAB-DETR)]  
+
 ### CVPR 2022  
 
 + DN-DETR: Accelerate DETR Training by Introducing Query DeNoising.  
