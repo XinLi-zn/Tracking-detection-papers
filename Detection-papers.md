@@ -42,9 +42,9 @@ Yanghao Li, Hanzi Mao, Ross Girshick, Kaiming He
 
 ### CVPR 2022  
 
-+ Accelerating DETR Convergence via Semantic-Aligned Matching.  
-Gongjie Zhang, Zhipeng Luo, Yingchen Yu, Kaiwen Cui, Shijian Lu  
-[[paper](https://arxiv.org/abs/2203.06883)]  [[code](https://github.com/ZhangGongjie/SAM-DETR)]  [[related materials](https://zhuanlan.zhihu.com/p/489839282)]  
++ DN-DETR: Accelerate DETR Training by Introducing Query DeNoising.  
+Feng Li, Hao Zhang, Shilong Liu, Jian Guo, Lionel M. Ni, Lei Zhang  
+[[paper](https://arxiv.org/pdf/2203.01305.pdf)]  [[code](https://github.com/IDEA-opensource/DN-DETR)]  [[related materials](https://zhuanlan.zhihu.com/p/478079763)]  
 
 + Accelerating DETR Convergence via Semantic-Aligned Matching.  
 Gongjie Zhang, Zhipeng Luo, Yingchen Yu, Kaiwen Cui, Shijian Lu  
