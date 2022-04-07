@@ -33,7 +33,7 @@ Hao Zhang, Feng Li, Shilong Liu, Lei Zhang, Hang Su, Jun Zhu, Lionel M. Ni, Heun
 [[paper](https://arxiv.org/abs/2203.03605)] [[code](https://github.com/IDEACVR/DINO)]
   <details>
     <summary>Notes</summary>
-     <img src="imgs/det/PVTOD.png" width = "797" height = "117" alt="referformer" align=center />  
+     <img src="imgs/det/DINO.png" width = "455" height = "241" alt="DINO" align=center />  
 
     - Key points:
          - A contrastive way for denoising training, a mixed query selection method for anchor initialization, and a forward twice scheme fo box prediction.  
