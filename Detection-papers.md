@@ -18,7 +18,7 @@ Yuxin Fang, Shusheng Yang, Shijie Wang, Yixiao Ge, Ying Shan, Xinggang Wang
 [[paper](https://arxiv.org/pdf/2204.02964.pdf)] [[code](https://github.com/hustvl/MIMDet)]
   <details>
     <summary>Notes</summary>
-     <img src="imgs/det/MIMDET.png" width = "797" height = "117" alt="referformer" align=center />  
+     <img src="imgs/det/MIMDET.png" width = "797" height = "117" alt="MIMDET" align=center />  
 
     - Key points:
          - With randomly sampled partial observations (25%-50%), the ViT model pretrained using MIM works well for object detection.
