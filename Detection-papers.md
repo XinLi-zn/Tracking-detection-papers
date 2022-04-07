@@ -1,6 +1,6 @@
 
-
-# Detection Papers
+ 
+# Detection Papers 
 
 ## Review materials
 [[综述：目标检测二十年（2001-2021）](https://mp.weixin.qq.com/s/cWCwcTA01oBy0BM3qRHb4Q)]  
@@ -9,9 +9,9 @@
 [[detection-transformer-list](https://github.com/IDEACVR/awesome-detection-transformer)]
 
 
+---
 ## Transformer-based Object Detection
 
-### arXiv 2022
 
 + **MIMDET** Unleashing Vanilla Vision Transformer with Masked Image Modeling for Object Detection. arXiv 2022-04  
 Yuxin Fang, Shusheng Yang, Shijie Wang, Yixiao Ge, Ying Shan, Xinggang Wang   
@@ -56,54 +56,61 @@ Yanghao Li, Hanzi Mao, Ross Girshick, Kaiming He
          - 60.4 AP(box) on COCO, with ViT-H backbone (MAE pretraining on 1K) and Cascade framework.
     </details>
 
-### ICLR 2022   
 
-+ DAB-DETR: Dynamic Anchor Boxes are Better Queries for DETR.  
++ DAB-DETR: Dynamic Anchor Boxes are Better Queries for DETR. ICLR 2022   
 Shilong Liu, Feng Li, Hao Zhang, Xiao Yang, Xianbiao Qi, Hang Su, Jun Zhu, Lei Zhang    
 [[paper](https://arxiv.org/abs/2201.12329)]  [[code](https://github.com/SlongLiu/DAB-DETR)]  
 
-### CVPR 2022  
 
-+ DN-DETR: Accelerate DETR Training by Introducing Query DeNoising.  
++ DN-DETR: Accelerate DETR Training by Introducing Query DeNoising. CVPR 2022  
 Feng Li, Hao Zhang, Shilong Liu, Jian Guo, Lionel M. Ni, Lei Zhang  
 [[paper](https://arxiv.org/pdf/2203.01305.pdf)]  [[code](https://github.com/IDEA-opensource/DN-DETR)]  [[related materials](https://zhuanlan.zhihu.com/p/478079763)]  
 
-+ Accelerating DETR Convergence via Semantic-Aligned Matching.  
++ Accelerating DETR Convergence via Semantic-Aligned Matching. CVPR 2022  
 Gongjie Zhang, Zhipeng Luo, Yingchen Yu, Kaiwen Cui, Shijian Lu  
 [[paper](https://arxiv.org/abs/2203.06883)]  [[code](https://github.com/ZhangGongjie/SAM-DETR)]  [[related materials](https://zhuanlan.zhihu.com/p/489839282)]  
 
-+ AdaMixer: A Fast-Converging Query-Based Object Detector.  
++ AdaMixer: A Fast-Converging Query-Based Object Detector. CVPR 2022  
 Ziteng Gao, Limin Wang, Bing Han, Sheng Guo  
 [[paper](https://arxiv.org/pdf/2203.16507.pdf)] [[code](https://github.com/MCG-NJU/AdaMixer)]  
 
-+ Few-Shot Object Detection with Fully Cross-Transformer.  
++ Few-Shot Object Detection with Fully Cross-Transformer. CVPR 2022  
 Guangxing Han, Jiawei Ma, Shiyuan Huang, Long Chen, Shih-Fu Chang  
 [[paper](https://arxiv.org/pdf/2203.15021.pdf)]    
 
-+ Multi-Granularity Alignment Domain Adaptation for Object Detection.  
++ Multi-Granularity Alignment Domain Adaptation for Object Detection. CVPR 2022  
 Wenzhang Zhou, Dawei Du, Libo Zhang, Tiejian Luo, Yanjun Wu  
 [[paper](https://arxiv.org/pdf/2203.16897.pdf)]  [[code](https://github.com/tiankongzhang/MGADA)]  
 
 
-### CVPR 2021
-
-+ UP-DETR: Unsupervised Pre-training for Object Detection with Transformers.
++ UP-DETR: Unsupervised Pre-training for Object Detection with Transformers. CVPR 2021  
 Zhigang Dai, Bolun Cai, Yugeng Lin, Junying Chen.
 [[paper](https://arxiv.org/pdf/2011.09094)]  [[code](https://github.com/dddzg/up-detr)]
 
-+ Deformable DETR: Deformable Transformers for End-to-End Object Detection.  
++ Deformable DETR: Deformable Transformers for End-to-End Object Detection. CVPR 2021    
 Xizhou Zhu, Weijie Su, Lewei Lu, Bin Li, Xiaogang Wang, Jifeng Dai.  
 [[paper](https://arxiv.org/pdf/2010.04159.pdf)]  [[code](https://github.com/fundamentalvision/Deformable-DETR)]
 
-+  Adaptive Image Transformer for One-Shot Object Detection
++ Adaptive Image Transformer for One-Shot Object Detection. CVPR 2021  
 
 
-### ECCV 2020  
-+ **DETR**  - End-to-end object detection with transformers.
++ **DETR**  - End-to-end object detection with transformers. ECCV2020  
 Nicolas Carion, Francisco Massa, Gabriel Synnaeve, Nicolas Usunier, Alexander Kirillov, Sergey Zagoruyko.
 [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123460205.pdf)]  [[code](https://github.com/facebookresearch/detr)]
+  <details>
+    <summary>Notes</summary>
+     <img src="imgs/det/DETR.png" width = "570" height = "286" alt="DETR" align=center />  
+
+    - Key points:
+         - Casting object detection as a set prediction problem and solving it with a set-based global loss that forces unique predictions via bipartite matching under a transformer encoder-decoder architecture.  
+         - Given a small set of learned object queries, DETR reasons about the relations of the objects and the global image context to output the prediction set in parallel.
+  
+    - Performance:
+         - 45.1 AP(box) on COCO 2017val, with the res101 backbone.
+    </details>
 
 
+--- 
 ## Semi-Supervised, UN-supervised, and self-supervised Object Detection
 
 
@@ -163,7 +170,7 @@ Ceyuan Yang, Zhirong Wu, Bolei Zhou, Stephen Lin
 Yihe Tang, Weifeng Chen, Yijun Luo, Yuting Zhang  
 [[paper](https://arxiv.org/pdf/2106.10456.pdf)]  [[code](https://github.com/lryta/HumbleTeacher)]
 
-
+--- 
 ## 3D Object Detection
 
 + CAT-Det: Contrastively Augmented Transformer for Multi-modal 3D Object Detection. CVPR 2022 
@@ -171,7 +178,7 @@ Yanan Zhang, Jiaxin Chen, Di Huang
 [[paper](https://arxiv.org/pdf/2204.00325)]  [code]
 
 
-
+--- 
 ## Dense Object Detection
 
 ### CVPR 2021  
@@ -183,6 +190,7 @@ Xiang Li, Wenhai Wang, Xiaolin Hu, Jun Li, Jinhui Tang, Jian Yang
 Haoyang Zhang, Ying Wang, Feras Dayoub, Niko Sünderhauf
 [[paper](https://arxiv.org/pdf/2008.13367.pdf)] [[code](https://github.com/hyz-xmaster/VarifocalNet)]
 
+---  
 ## Domain Adaption
 
 ### CVPR 2021
@@ -202,6 +210,7 @@ Jinhong Deng, Wen Li, Yuhua Chen, Lixin Duan
 Vibashan VS, Vikram Gupta, Poojan Oza, Vishwanath A. Sindagi, Vishal M. Patel
 [[paper](https://arxiv.org/pdf/2103.04224)]
 
+---  
 ## New Framework
 
 ### CVPR 2021
@@ -233,6 +242,7 @@ Qiang Chen, Yingming Wang, Tong Yang, Xiangyu Zhang, Jian Cheng, Jian Sun
 Peng Chen, Jing Liu, Bohan Zhuang, Mingkui Tan, Chunhua Shen.
 [[paper](https://arxiv.org/pdf/2007.06919.pdf)]  [[code](https://github.com/aim-uofa/model-quantization)]
 
+--- 
 ## Few-Shot
 
 ### CVPR 2021  
@@ -266,6 +276,7 @@ Zhibo Fan, Yuchen Ma, Zeming Li, Jian Sun
 
 + Transformation Invariant Few-Shot Object Detection
 
+--- 
 ## Lightweight (distillation and NAS)
 
 ### CVPR 2021  
@@ -289,6 +300,7 @@ Tingting Liang, Yongtao Wang, Zhi Tang, Guosheng Hu, Haibin Ling
 Jianyuan Guo, Kai Han, Yunhe Wang, Han Wu, Xinghao Chen, Chunjing Xu, Chang Xu
 [[paper](https://arxiv.org/pdf/2103.14475.pdf)]  [[code](https://github.com/ggjy/DeFeat.pytorch)]
 
+--- 
 ## Long-tail
 
 ### CVPR 2021  
@@ -300,7 +312,7 @@ Tong Wang, Yousong Zhu, Chaoyang Zhao, Wei Zeng, Jinqiao Wang, Ming Tang
 Jingru Tan, Xin Lu, Gang Zhang, Changqing Yin, Quanquan Li
 [[paper](https://arxiv.org/pdf/2012.08548.pdf)]  [[code](https://github.com/tztztztztz/eqlv2)]
 
-
+--- 
 ## training method
 
 ### CVPR 2021  
@@ -324,7 +336,7 @@ Pin-Chun Chen, Bo-Han Kung, Jun-Cheng Chen
 Xiangning Chen, Cihang Xie, Mingxing Tan, Li Zhang, Cho-Jui Hsieh, Boqing Gong  
 [[paper](https://arxiv.org/pdf/2103.13886.pdf)] [[code](https://github.com/google/automl/blob/master/efficientdet/Det-AdvProp.md)]
 
-
+--- 
 ## Specific object\problem detection
 ### CVPR 2021
 + CRFace: Confidence Ranker for Model-Agnostic Face Detection Refinement.  
@@ -385,7 +397,7 @@ Zheng Ge, Songtao Liu, Zeming Li, Osamu Yoshie, Jian Sun
 Eunji Kim, Siwon Kim, Jungbeom Lee, Hyunwoo Kim, Sungroh Yoon   
 [[paper](https://arxiv.org/pdf/2203.13249.pdf)] [code]
 
-
+--- 
 ## Unclassified  
 ### arXiv 2022  
 + BigDetection: A Large-scale Benchmark for Improved Object Detector Pre-training  
