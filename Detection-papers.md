@@ -73,6 +73,18 @@ Gongjie Zhang, Zhipeng Luo, Yingchen Yu, Kaiwen Cui, Shijian Lu
 + AdaMixer: A Fast-Converging Query-Based Object Detector. CVPR 2022  
 Ziteng Gao, Limin Wang, Bing Han, Sheng Guo  
 [[paper](https://arxiv.org/pdf/2203.16507.pdf)] [[code](https://github.com/MCG-NJU/AdaMixer)]  
+  <details>
+    <summary>Notes</summary>
+     <img src="imgs/det/adaMixer.jpg" width = "4778" height = "232" alt="adaMixer" align=center />  
+
+    - Key points:
+         - Improving the adaptability of the decoder processes in a) each query sample features over space and scales based on estimated offsets; b) decoding these sampled features with an adaptive MLP-mixer under the guidance of each query.
+  
+    - Performance:
+         - 51.3 AP(box) on COCO minival.
+    </details>
+
+
 
 + Few-Shot Object Detection with Fully Cross-Transformer. CVPR 2022  
 Guangxing Han, Jiawei Ma, Shiyuan Huang, Long Chen, Shih-Fu Chang  
