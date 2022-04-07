@@ -75,7 +75,7 @@ Ziteng Gao, Limin Wang, Bing Han, Sheng Guo
 [[paper](https://arxiv.org/pdf/2203.16507.pdf)] [[code](https://github.com/MCG-NJU/AdaMixer)]  
   <details>
     <summary>Notes</summary>
-     <img src="imgs/det/adaMixer.png" width = "1195" height = "378" alt="adaMixer" align=center />  
+     <img src="imgs/det/adaMixer.png" width = "799" height = "252" alt="adaMixer" align=center />  
 
     - Key points:
          - Improving the adaptability of the decoder processes in a) each query sample features over space and scales based on estimated offsets; b) decoding these sampled features with an adaptive MLP-mixer under the guidance of each query.
