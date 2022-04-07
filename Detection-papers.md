@@ -13,6 +13,21 @@
 
 ### arXiv 2022
 
++ **MIMDET** Unleashing Vanilla Vision Transformer with Masked Image Modeling for Object Detection. arXiv 2022-04  
+Yuxin Fang, Shusheng Yang, Shijie Wang, Yixiao Ge, Ying Shan, Xinggang Wang   
+[[paper](https://arxiv.org/pdf/2204.02964.pdf)] [[code](https://github.com/hustvl/MIMDet)]
+  <details>
+    <summary>Notes</summary>
+     <img src="imgs/det/MIMDET.png" width = "797" height = "117" alt="referformer" align=center />  
+
+    - Key points:
+         - With randomly sampled partial observations (25%-50%), the ViT model pretrained using MIM works well for object detection.
+         - Using the features of both ViT and CNNs to generate a feature pyramid for detection.
+    - Performance:
+         - 51.5 AP on COCO val2017   
+    </details>
+
+
 + DINO: DETR with Improved DeNoising Anchor Boxes for End-to-End Object Detection. arXiv 2022-03  
 Hao Zhang, Feng Li, Shilong Liu, Lei Zhang, Hang Su, Jun Zhu, Lionel M. Ni, Heung-Yeung Shum   
 [[paper](https://arxiv.org/abs/2203.03605)] [[code](https://github.com/IDEACVR/DINO)]
