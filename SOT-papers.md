@@ -78,7 +78,7 @@ Qiuhong Shen, Lei Qiao, Jinyang Guo, Peixia Li, Xin Li, Bo Li, Weitao Feng, Weih
 
 + Visible-Thermal UAV Tracking: A Large-Scale Benchmark and New Baseline. CVPR2022  
 Pengyu Zhang, Jie Zhao, Dong Wang, Huchuan Lu, Xiang Ruan  
-[paper] [code]
+[[paper](https://arxiv.org/pdf/2204.04120.pdf)] [code]
 
 ## arXiv 2021
 
