@@ -193,6 +193,12 @@ Yanan Zhang, Jiaxin Chen, Di Huang
 --- 
 ## Dense Object Detection
 
+### CVPR 2022   
++ Localization Distillation for Dense Object Detection   
+Zhaohui Zheng, Rongguang Ye, Ping Wang, Dongwei Ren, Wangmeng Zuo, Qibin Hou, Ming-Ming Cheng    
+[[paper](https://arxiv.org/abs/2102.12252)]   [[code](https://github.com/HikariTJU/LD)]   
+
+
 ### CVPR 2021  
 + Generalized Focal Loss V2: Learning Reliable Localization Quality Estimation for Dense Object Detection
 Xiang Li, Wenhai Wang, Xiaolin Hu, Jun Li, Jinhui Tang, Jian Yang
