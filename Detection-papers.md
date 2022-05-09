@@ -36,7 +36,7 @@ Hao Zhang, Feng Li, Shilong Liu, Lei Zhang, Hang Su, Jun Zhu, Lionel M. Ni, Heun
      <img src="imgs/det/DINO.png" width = "455" height = "241" alt="DINO" align=center />  
 
     - Key points:
-         - A contrastive way for denoising training, a mixed query selection method for anchor initialization, and a forward twice scheme fo box prediction.  
+         - A contrastive way for denoising training, a mixed query selection method for anchor initialization, and a forward twice scheme for box prediction.  
     - Performance:
          - 63.2 AP on COCO val2017 with a SiwnL backbone
          - 63.3 AP on test-dev
