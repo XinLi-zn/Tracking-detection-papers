@@ -22,7 +22,19 @@ Jiachen Li, Bin Wang, Shiqiang Zhu, Xin Cao, Fan Zhong, Wenxuan Chen, Te Li, Jas
 Xin Chen, Dong Wang, Dongdong Li, Huchuan Lu    
 [[paper](https://arxiv.org/abs/2203.13537)]  [[code](https://github.com/chenxin-dlut/HCAT)]
 
-## CVPR 2022
+
+## IJCAI 2022  
+
++ SparseTT: Visual Tracking with Sparse Transformers  
+Zhihong Fu, Zehua Fu, Qingjie Liu, Wenrui Cai, Yunhong Wang  
+[[paper](https://arxiv.org/pdf/2205.03776.pdf)] [[code](https://github.com/fzh0917/SparseTT)]   
+
+## CVPR 2022  
+
+
++ Recurrent Dynamic Embedding for Video Object Segmentation. CVPR 2022  
+Mingxing Li, Li Hu, Zhiwei Xiong, Bang Zhang, Pan Pan, Dong Liu  
+[[paper](https://arxiv.org/pdf/2205.03761)] [[code](https://github.com/Limingxing00/RDE-VOS-CVPR2022)]  
 
 
 + Beyond 3D Siamese Tracking: A Motion-Centric Paradigm for 3D Single Object Tracking in Point Clouds. CVPR 2022  
