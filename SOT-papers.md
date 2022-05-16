@@ -32,6 +32,11 @@ Zhihong Fu, Zehua Fu, Qingjie Liu, Wenrui Cai, Yunhong Wang
 ## CVPR 2022  
 
 
+
++ Transformer Tracking with Cyclic Shifting Window Attention. CVPR 2022  
+Zikai Song, Junqing Yu, Yi-Ping Phoebe Chen, Wei Yang   
+[[paper](https://arxiv.org/abs/2205.03806)] [[code](https://github.com/SkyeSong38/CSWinTT)]  
+
 + Recurrent Dynamic Embedding for Video Object Segmentation. CVPR 2022  
 Mingxing Li, Li Hu, Zhiwei Xiong, Bang Zhang, Pan Pan, Dong Liu  
 [[paper](https://arxiv.org/pdf/2205.03761)] [[code](https://github.com/Limingxing00/RDE-VOS-CVPR2022)]  
