@@ -101,7 +101,11 @@ Qiuhong Shen, Lei Qiao, Jinyang Guo, Peixia Li, Xin Li, Bo Li, Weitao Feng, Weih
 
 + Visible-Thermal UAV Tracking: A Large-Scale Benchmark and New Baseline. CVPR2022  
 Pengyu Zhang, Jie Zhao, Dong Wang, Huchuan Lu, Xiang Ruan  
-[[paper](https://arxiv.org/pdf/2204.04120.pdf)] [code]
+[[paper](https://arxiv.org/pdf/2204.04120.pdf)] [code]  
+
++ Ranking-Based Siamese Visual Tracking. CVPR 2022  
+Feng Tang, Qiang Ling   
+[[paper]([https://arxiv.org/abs/2205.03806](https://openaccess.thecvf.com/content/CVPR2022/papers/Tang_Ranking-Based_Siamese_Visual_Tracking_CVPR_2022_paper.pdf))] [[code](t https://github.com/sansanfree/RBO)]  
 
 ## arXiv 2021
 
