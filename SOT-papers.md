@@ -105,7 +105,7 @@ Pengyu Zhang, Jie Zhao, Dong Wang, Huchuan Lu, Xiang Ruan
 
 + Ranking-Based Siamese Visual Tracking. CVPR 2022  
 Feng Tang, Qiang Ling   
-[[paper]([https://arxiv.org/abs/2205.03806](https://openaccess.thecvf.com/content/CVPR2022/papers/Tang_Ranking-Based_Siamese_Visual_Tracking_CVPR_2022_paper.pdf))] [[code](t https://github.com/sansanfree/RBO)]  
+[[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Tang_Ranking-Based_Siamese_Visual_Tracking_CVPR_2022_paper.pdf))] [[code](https://github.com/sansanfree/RBO)]  
 
 ## arXiv 2021
 
