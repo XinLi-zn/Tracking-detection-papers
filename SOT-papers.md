@@ -109,6 +109,10 @@ Pengyu Zhang, Jie Zhao, Dong Wang, Huchuan Lu, Xiang Ruan
 Feng Tang, Qiang Ling   
 [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Tang_Ranking-Based_Siamese_Visual_Tracking_CVPR_2022_paper.pdf)] [[code](https://github.com/sansanfree/RBO)]  
 
++ Spiking Transformers for Event-Based Single Object Tracking. CVPR 2022  
+Jiqing Zhang, Bo Dong, Haiwei Zhang, Jianchuan Ding, Felix Heide, Baocai Yin, Xin Yang   
+[[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_Spiking_Transformers_for_Event-Based_Single_Object_Tracking_CVPR_2022_paper.pdf)] [[code](https://github.com/JeeKing/CVPR2022_STNet)] 
+
 ## arXiv 2021
 
 + Efficient Visual Tracking with Exemplar Transformers. arXiv 2021-12  
