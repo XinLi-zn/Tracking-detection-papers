@@ -3,9 +3,7 @@
 ## arXiv 2022
 
 
-+ Adiabatic Quantum Computing for Multi Object Tracking (arXiv 2022-03)  
-Jan-Nico Zaech, Alexander Liniger, Martin Danelljan, Dengxin Dai, Luc Van Gool   
-[[paper](https://arxiv.org/abs/2202.08837)]   
+
 
 + Observation-Centric SORT: Rethinking SORT for Robust Multi-Object Tracking (arXiv 2022-03)  
 Jinkun Cao, Xinshuo Weng, Rawal Khirodkar, Jiangmiao Pang, Kris Kitani   
@@ -17,6 +15,9 @@ Mingfei Chen, Yue Liao, Si Liu, Fei Wang, Jenq-Neng Hwang
 
 ## CVPR 2022  
 
++ Adiabatic Quantum Computing for Multi Object Tracking. CVPR 2022 
+Jan-Nico Zaech, Alexander Liniger, Martin Danelljan, Dengxin Dai, Luc Van Gool   
+[[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Zaech_Adiabatic_Quantum_Computing_for_Multi_Object_Tracking_CVPR_2022_paper.pdf)] 
 
 + DanceTrack: Multi-Object Tracking in Uniform Appearance and Diverse Motion. CVPR 2022  
 Peize Sun, Jinkun Cao, Yi Jiang, Zehuan Yuan, Song Bai, Kris Kitani, Ping Luo   
