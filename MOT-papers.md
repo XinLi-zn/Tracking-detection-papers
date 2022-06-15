@@ -40,6 +40,10 @@ Xingyi Zhou, Tianwei Yin, Vladlen Koltun, Phillip Krahenbuhl
 Jiarui Cai, Mingze Xu, Wei Li, Yuanjun Xiong, Wei Xia, Zhuowen Tu, Stefano Soatto   
 [[paper](https://arxiv.org/pdf/2203.16761.pdf)][[code]()] 
 
++ LMGP: Lifted Multicut Meets Geometry Projections for Multi-Camera Multi-Object Tracking. CVPR 2022  
+Duy M. H. Nguyen, Roberto Henschel, Bodo Rosenhahn, Daniel Sonntag, Paul Swoboda   
+[[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Nguyen_LMGP_Lifted_Multicut_Meets_Geometry_Projections_for_Multi-Camera_Multi-Object_Tracking_CVPR_2022_paper.pdf)][[code](https://github.com/nhmduy/LMGP)] 
+
 + Multi-Object Tracking Meets Moving UAV. CVPR 2022  
 Shuai Liu, Xin Li, Huchuan Lu, You He   
 [[paper](https://arxiv.org/pdf/2203.16210.pdf)][code]   
@@ -47,6 +51,23 @@ Shuai Liu, Xin Li, Huchuan Lu, You He
 + Learning of Global Objective for Network Flow in Multi-Object Tracking. CVPR 2022  
 Shuai Li, Yu Kong, Hamid Rezatofighi   
 [paper][code]   
+
++ Towards Discriminative Representation: Multi-View Trajectory Contrastive Learning for Online Multi-Object Tracking. CVPR 2022  
+En Yu, Zhuoling Li, Shoudong Han   
+[[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Yu_Towards_Discriminative_Representation_Multi-View_Trajectory_Contrastive_Learning_for_Online_Multi-Object_CVPR_2022_paper.pdf)] [[code](https://github.com/xingyizhou/GTR)]  
+
++ TrackFormer: Multi-Object Tracking with Transformers. CVPR 2022  
+Tim Meinhardt, Alexander Kirillov, Laura Leal-Taixe, Christoph Feichtenhofer.  
+[[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Meinhardt_TrackFormer_Multi-Object_Tracking_With_Transformers_CVPR_2022_paper.pdf)] [[code](https://github.com/timmeinhardt/trackformer)] 
+
++ PoseTrack21: A Dataset for Person Search, Multi-Object Tracking and Multi-Person Pose Tracking. CVPR 2022  
+Andreas Döring, Di Chen, Shanshan Zhang, Bernt Schiele, Jürgen Gall  
+[[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Doring_PoseTrack21_A_Dataset_for_Person_Search_Multi-Object_Tracking_and_Multi-Person_CVPR_2022_paper.pdf)] [[code](https://github.com/andoer/PoseTrack21)] 
+
++ Opening up Open-World Tracking. CVPR 2022    
+Yang Liu, Idil Esen Zulfikar, Jonathon Luiten, Achal Dave, Aljoša Ošep, Deva Ramanan, Bastian Leibe, Laura Leal-Taixé    
+[[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Liu_Opening_Up_Open_World_Tracking_CVPR_2022_paper.pdf)]  [[code](openworldtracking.github.io)]
+
 
 ## arXiv 2021
 
@@ -58,9 +79,6 @@ Yifu Zhang, Peize Sun, Yi Jiang, Dongdong Yu, Zehuan Yuan, Ping Luo, Wenyu Liu, 
 Chao Liang, Zhipeng Zhang, Xue Zhou, Bing Li, Yi Lu, Weiming Hu  
 [[paper](https://arxiv.org/pdf/2104.09441.pdf)]  [[code](https://github.com/JudasDie/SOTS)]  
 
-+ Opening up Open-World Tracking. (arXiv 2021-4)  
-Yang Liu, Idil Esen Zulfikar, Jonathon Luiten, Achal Dave, Aljoša Ošep, Deva Ramanan, Bastian Leibe, Laura Leal-Taixé    
-[[paper](https://arxiv.org/abs/2104.11221)]  
 
 + DEFT: Detection Embeddings for Tracking. (arXiv 2021-2)  
 Mohamed Chaabane, Peter Zhang, J. Ross Beveridge, Stephen O'Hara  
@@ -73,10 +91,6 @@ Fangao Zeng*, Bin Dong*,  Tiancai Wang*, Cheng Chen, Xiangyu Zhang, Yichen Wei.
 + TrackMPNN: A Message Passing Graph Neural Architecture for Multi-Object Tracking. (arXiv 2021-1)  
 Akshay Rangesh, Pranav Maheshwari, Mez Gebre, Siddhesh Mhatre, Vahid Ramezani, Mohan M. Trivedi.  
 [[paper](https://arxiv.org/pdf/2101.04206.pdf)] [[code](https://github.com/arangesh/TrackMPNN)] 
-
-+ TrackFormer: Multi-Object Tracking with Transformers. (arXiv 2021-1)  
-Tim Meinhardt, Alexander Kirillov, Laura Leal-Taixe, Christoph Feichtenhofer.  
-[[paper](https://arxiv.org/pdf/2101.02702.pdf)] [[code](https://github.com/timmeinhardt/trackformer)] 
 
 + Global Correlation Network: End-to-End Joint Multi-Object Detection and Tracking. (arXiv 2021-3)  
 Xuewu Lin, Yu-ang Guo, Jianqiang Wang.  
