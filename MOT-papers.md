@@ -1,7 +1,9 @@
 # MOT Papers
 
-## arXiv 2022
-
+## arXiv 2022  
++ BoT-SORT: Robust Associations Multi-Pedestrian Tracking (arXiv 2022-07)  
+Nir Aharon, Roy Orfaig, Ben-Zion Bobrovsky   
+[[paper](https://arxiv.org/abs/2206.14651)]  [[code](https://github.com/NirAharon/BOT-SORT)]
 
 + Observation-Centric SORT: Rethinking SORT for Robust Multi-Object Tracking (arXiv 2022-03)  
 Jinkun Cao, Xinshuo Weng, Rawal Khirodkar, Jiangmiao Pang, Kris Kitani   
