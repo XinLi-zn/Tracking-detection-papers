@@ -21,7 +21,7 @@ Yifu Zhang, Peize Sun, Yi Jiang, Dongdong Yu, Zehuan Yuan, Ping Luo, Wenyu Liu, 
 [[paper](https://arxiv.org/abs/2110.06864)]  [[code](https://github.com/ifzhang/ByteTrack)]  
   <details>
     <summary>Notes</summary>
-     <img src="imgs/mot/byte_track.png" width = "267" height = "477" alt="referformer" align=center />  
+     <img src="imgs/mot/byte_track.jpg" width = "267" height = "477" alt="referformer" align=center />  
 
     - Key points:
          - Low score detection boxes are also associated based on their similarities (IoU) with tracklets to recover true objects and filter out background detections.
