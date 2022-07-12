@@ -27,7 +27,7 @@ Xin Chen, Dong Wang, Dongdong Li, Huchuan Lu
 
 + Joint Feature Learning and Relation Modeling for Tracking: A One-Stream Framework   
 Botao Ye, Hong Chang, Bingpeng Ma, Shiguang Shan  
-[[paper](https://github.com/botaoye/OSTrack)] [[code](https://arxiv.org/pdf/2203.11991.pdf)]   
+ [[paper](https://arxiv.org/pdf/2203.11991.pdf)] [[code](https://github.com/botaoye/OSTrack)]   
 
 
 ## IJCAI 2022  
