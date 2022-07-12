@@ -2,7 +2,6 @@
 ## arXiv 2022
 
 
-
 + SOTVerse: A User-defined Task Space of Single Object Tracking. arXiv 2022-04  
 Shiyu Hu, Xin Zhao, Kaiqi Huang      
 [[paper](https://arxiv.org/pdf/2203.05328)]  [[project](http://metaverse.aitestunion.com/)]  
@@ -23,6 +22,12 @@ Jiachen Li, Bin Wang, Shiqiang Zhu, Xin Cao, Fan Zhong, Wenxuan Chen, Te Li, Jas
 + Efficient Visual Tracking via Hierarchical Cross-Attention Transformer. arXiv 2022-03  
 Xin Chen, Dong Wang, Dongdong Li, Huchuan Lu    
 [[paper](https://arxiv.org/abs/2203.13537)]  [[code](https://github.com/chenxin-dlut/HCAT)]
+
+## ECCV 2022  
+
++ Joint Feature Learning and Relation Modeling for Tracking: A One-Stream Framework   
+Botao Ye, Hong Chang, Bingpeng Ma, Shiguang Shan  
+[[paper](https://github.com/botaoye/OSTrack)] [[code](https://arxiv.org/pdf/2203.11991.pdf)]   
 
 
 ## IJCAI 2022  
