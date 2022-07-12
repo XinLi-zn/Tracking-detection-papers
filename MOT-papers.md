@@ -11,6 +11,22 @@ Jinkun Cao, Xinshuo Weng, Rawal Khirodkar, Jiangmiao Pang, Kris Kitani
 Mingfei Chen, Yue Liao, Si Liu, Fei Wang, Jenq-Neng Hwang   
 [[paper](https://arxiv.org/pdf/2203.16621.pdf)]  [code]  
 
+
+## ECCV 2022  
+
++ ByteTrack: Multi-Object Tracking by Associating Every Detection Box (arXiv 2021-10)  
+Yifu Zhang, Peize Sun, Yi Jiang, Dongdong Yu, Zehuan Yuan, Ping Luo, Wenyu Liu, Xinggang Wang  
+[[paper](http://de.arxiv.org/pdf/2110.06864.pdf)]  [[code](https://github.com/ifzhang/ByteTrack)]  
+  <details>
+    <summary>Notes</summary>
+     <img src="imgs/mot/dancetrack.png" width = "643" height = "242" alt="referformer" align=center />  
+
+    - Key points:
+         - Proposing a large-scale dataset for multi-human tracking, where humans have similar appearance, diverse motion and extreme articulation.
+         - Benchmarking several state-of-the-art trackers on the proposed dataset.
+    </details>
+
+
 ## CVPR 2022  
 
 + Adiabatic Quantum Computing for Multi Object Tracking. CVPR 2022  
@@ -67,11 +83,7 @@ Yang Liu, Idil Esen Zulfikar, Jonathon Luiten, Achal Dave, Aljoša Ošep, Deva R
 [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Liu_Opening_Up_Open_World_Tracking_CVPR_2022_paper.pdf)]  [[code](openworldtracking.github.io)]
 
 
-## arXiv 2021
-
-+ ByteTrack: Multi-Object Tracking by Associating Every Detection Box (arXiv 2021-10)  
-Yifu Zhang, Peize Sun, Yi Jiang, Dongdong Yu, Zehuan Yuan, Ping Luo, Wenyu Liu, Xinggang Wang  
-[[paper](http://de.arxiv.org/pdf/2110.06864.pdf)]  [[code](https://github.com/ifzhang/ByteTrack)]    
+## arXiv 2021    
 
 + One More Check: Making "Fake Background" Be Tracked Again. (arXiv 2021-4)  
 Chao Liang, Zhipeng Zhang, Xue Zhou, Bing Li, Yi Lu, Weiming Hu  
