@@ -21,11 +21,11 @@ Yifu Zhang, Peize Sun, Yi Jiang, Dongdong Yu, Zehuan Yuan, Ping Luo, Wenyu Liu, 
 [[paper](https://arxiv.org/abs/2110.06864)]  [[code](https://github.com/ifzhang/ByteTrack)]  
   <details>
     <summary>Notes</summary>
-     <img src="imgs/mot/dancetrack.png" width = "643" height = "242" alt="referformer" align=center />  
+     <img src="imgs/mot/byte_track.png" width = "267" height = "477" alt="referformer" align=center />  
 
     - Key points:
-         - Proposing a large-scale dataset for multi-human tracking, where humans have similar appearance, diverse motion and extreme articulation.
-         - Benchmarking several state-of-the-art trackers on the proposed dataset.
+         - Low score detection boxes are associated based on their similarities (IoU) with tracklets to recover true objects and filter out background detections.
+         - SOTA performance. MOTA 80.3 HOTA 63.1 on MOT17 and MOTA 77.8 HOTA 61.3 on MOT20.
     </details>
 
 
