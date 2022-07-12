@@ -16,7 +16,7 @@ Mingfei Chen, Yue Liao, Si Liu, Fei Wang, Jenq-Neng Hwang
 
 + ByteTrack: Multi-Object Tracking by Associating Every Detection Box (arXiv 2021-10)  
 Yifu Zhang, Peize Sun, Yi Jiang, Dongdong Yu, Zehuan Yuan, Ping Luo, Wenyu Liu, Xinggang Wang  
-[[paper](http://de.arxiv.org/pdf/2110.06864.pdf)]  [[code](https://github.com/ifzhang/ByteTrack)]  
+[[paper](https://arxiv.org/abs/2110.06864)]  [[code](https://github.com/ifzhang/ByteTrack)]  
   <details>
     <summary>Notes</summary>
      <img src="imgs/mot/dancetrack.png" width = "643" height = "242" alt="referformer" align=center />  
