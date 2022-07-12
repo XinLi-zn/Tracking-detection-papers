@@ -24,7 +24,7 @@ Yifu Zhang, Peize Sun, Yi Jiang, Dongdong Yu, Zehuan Yuan, Ping Luo, Wenyu Liu, 
      <img src="imgs/mot/byte_track.png" width = "267" height = "477" alt="referformer" align=center />  
 
     - Key points:
-         - Low score detection boxes are associated based on their similarities (IoU) with tracklets to recover true objects and filter out background detections.
+         - Low score detection boxes are also associated based on their similarities (IoU) with tracklets to recover true objects and filter out background detections.
          - SOTA performance. MOTA 80.3 HOTA 63.1 on MOT17 and MOTA 77.8 HOTA 61.3 on MOT20.
     </details>
 
