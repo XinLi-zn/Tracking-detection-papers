@@ -7,10 +7,6 @@ Shiyu Hu, Xin Zhao, Kaiqi Huang
 [[paper](https://arxiv.org/pdf/2203.05328)]  [[project](http://metaverse.aitestunion.com/)]  
 
 
-+ Backbone is All Your Need: A Simplified Architecture for Visual Object Tracking. arXiv 2022-03  
-Boyu Chen, Peixia Li, Lei Bai, Lei Qiao, Qiuhong Shen, Bo Li, Weihao Gan, Wei Wu, Wanli Ouyang    
-[[paper](https://arxiv.org/pdf/2203.05328)]  
-
 + RGBD Object Tracking: An In-depth Review. arXiv 2022-03  
 Jinyu Yang, Zhe Li, Song Yan, Feng Zheng, Aleš Leonardis, Joni-Kristian Kämäräinen, Ling Shao    
 [[paper](https://arxiv.org/abs/2203.14134)]  [[code](https://github.com/memoryunreal/RGBD-tracking-review)]
@@ -25,10 +21,13 @@ Xin Chen, Dong Wang, Dongdong Li, Huchuan Lu
 
 ## ECCV 2022  
 
-+ Joint Feature Learning and Relation Modeling for Tracking: A One-Stream Framework   
++ Joint Feature Learning and Relation Modeling for Tracking: A One-Stream Framework (OSTrack)  
 Botao Ye, Hong Chang, Bingpeng Ma, Shiguang Shan  
  [[paper](https://arxiv.org/pdf/2203.11991.pdf)] [[code](https://github.com/botaoye/OSTrack)]   
 
++ Backbone is All Your Need: A Simplified Architecture for Visual Object Tracking (SimTrack)  
+Boyu Chen, Peixia Li, Lei Bai, Lei Qiao, Qiuhong Shen, Bo Li, Weihao Gan, Wei Wu, Wanli Ouyang    
+[[paper](https://arxiv.org/pdf/2203.05328)]  [[code](https://github.com/LPXTT/SimTrack)]  
 
 ## IJCAI 2022  
 
@@ -37,7 +36,6 @@ Zhihong Fu, Zehua Fu, Qingjie Liu, Wenrui Cai, Yunhong Wang
 [[paper](https://arxiv.org/pdf/2205.03776.pdf)] [[code](https://github.com/fzh0917/SparseTT)]   
 
 ## CVPR 2022  
-
 
 
 + Transformer Tracking with Cyclic Shifting Window Attention. CVPR 2022  
